@@ -1,0 +1,13 @@
+[
+    {
+        "catcode": "RE6070",
+        "type": "Electrolytic",
+        "capcode": 106,
+        "voltage": 25
+    },{
+        "id": "RE6075",
+        "type": "Electrolytic",
+        "value1": 106,
+        "value2": 63
+    }
+]
