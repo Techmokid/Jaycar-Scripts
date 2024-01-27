@@ -8,182 +8,98 @@
  },{
 	"catcode": "RR0572",
     "type": "Metal Film",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+    "resistance": 1000,
+    "wattage": 0.5,
+	"packsize": 8
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR0580",
+    "type": "Metal Film",
+    "resistance": 2200,
+    "wattage": 0.5,
+	"packsize": 8
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR0548",
+    "type": "Metal Film",
+    "resistance": 100,
+    "wattage": 0.5,
+	"packsize": 8
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR2552",
+    "type": "Carbon Film",
+    "resistance": 120,
+    "wattage": 1,
+	"packsize": 2
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR0584",
+    "type": "Metal Film",
+    "resistance": 3300,
+    "wattage": 0.5,
+	"packsize": 8
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR0556",
+    "type": "Metal Film",
+    "resistance": 220,
+    "wattage": 0.5,
+	"packsize": 8
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR0579",
+    "type": "Metal Film",
+    "resistance": 2000,
+    "wattage": 0.5,
+	"packsize": 8
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR0565",
+    "type": "Metal Film",
+    "resistance": 510,
+    "wattage": 0.5,
+	"packsize": 8
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR3298",
+    "type": "Wire Wound",
+    "resistance": 1000,
+    "wattage": 5,
+	"packsize": 1
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR3352",
+    "type": "Wire Wound",
+    "resistance": 10,
+    "wattage": 10,
+	"packsize": 1
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR2526",
+    "type": "Carbon Film",
+    "resistance": 10,
+    "wattage": 1,
+	"packsize": 2
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR3340",
+    "type": "Wire Wound",
+    "resistance": 1,
+    "wattage": 10,
+	"packsize": 1
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR2814",
+    "type": "Carbon Film",
+    "resistance": 47000,
+    "wattage": 1,
+	"packsize": 2
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR0588",
+    "type": "Metal Film",
+    "resistance": 4700,
+    "wattage": 0.5,
+	"packsize": 8
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR2762",
+    "type": "Carbon Film",
+    "resistance": 330,
+    "wattage": 1,
+	"packsize": 2
  },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
- },{
-	"catcode": "",
-    "type": "",
-    "resistance": ,
-    "wattage": ,
-	"packsize": 
+	"catcode": "RR0568",
+    "type": "Metal Film",
+    "resistance": 680,
+    "wattage": 0.5,
+	"packsize": 8
  }
 ]
