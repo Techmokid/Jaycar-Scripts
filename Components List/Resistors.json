@@ -1,105 +1,243 @@
 [
- {
-	"catcode": "RR0596",
-    "type": "Metal Film",
-    "resistance": 10000,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR0572",
-    "type": "Metal Film",
-    "resistance": 1000,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR0580",
-    "type": "Metal Film",
-    "resistance": 2200,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR0548",
-    "type": "Metal Film",
-    "resistance": 100,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR2552",
-    "type": "Carbon Film",
-    "resistance": 120,
-    "wattage": 1,
-	"packsize": 2
- },{
-	"catcode": "RR0584",
-    "type": "Metal Film",
-    "resistance": 3300,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR0556",
-    "type": "Metal Film",
-    "resistance": 220,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR0579",
-    "type": "Metal Film",
-    "resistance": 2000,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR0565",
-    "type": "Metal Film",
-    "resistance": 510,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR3298",
-    "type": "Wire Wound",
-    "resistance": 1000,
-    "wattage": 5,
-	"packsize": 1
- },{
-	"catcode": "RR3352",
-    "type": "Wire Wound",
-    "resistance": 10,
-    "wattage": 10,
-	"packsize": 1
- },{
-	"catcode": "RR2526",
-    "type": "Carbon Film",
-    "resistance": 10,
-    "wattage": 1,
-	"packsize": 2
- },{
-	"catcode": "RR3340",
-    "type": "Wire Wound",
-    "resistance": 1,
-    "wattage": 10,
-	"packsize": 1
- },{
-	"catcode": "RR2814",
-    "type": "Carbon Film",
-    "resistance": 47000,
-    "wattage": 1,
-	"packsize": 2
- },{
-	"catcode": "RR0588",
-    "type": "Metal Film",
-    "resistance": 4700,
-    "wattage": 0.5,
-	"packsize": 8
- },{
-	"catcode": "RR2762",
-    "type": "Carbon Film",
-    "resistance": 330,
-    "wattage": 1,
-	"packsize": 2
- },{
-	"catcode": "RR0568",
-    "type": "Metal Film",
-    "resistance": 680,
-    "wattage": 0.5,
-	"packsize": 8
- }
+	{
+		"catcode": "RR3298",
+		"type": "Wire Wound",
+		"resistance": 1000,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3352",
+		"type": "Wire Wound",
+		"resistance": 10,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3340",
+		"type": "Wire Wound",
+		"resistance": 1,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3306",
+		"type": "Wire Wound",
+		"resistance": 2200,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3250",
+		"type": "Wire Wound",
+		"resistance": 10,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3286",
+		"type": "Wire Wound",
+		"resistance": 330,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3274",
+		"type": "Wire Wound",
+		"resistance": 100,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3290",
+		"type": "Wire Wound",
+		"resistance": 470,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3214",
+		"type": "Wire Wound",
+		"resistance": 0.47,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3312",
+		"type": "Wire Wound",
+		"resistance": 4700,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3276",
+		"type": "Wire Wound",
+		"resistance": 120,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3356",
+		"type": "Wire Wound",
+		"resistance": 22,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3242",
+		"type": "Wire Wound",
+		"resistance": 4.7,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3258",
+		"type": "Wire Wound",
+		"resistance": 22,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3357",
+		"type": "Wire Wound",
+		"resistance": 27,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3353",
+		"type": "Wire Wound",
+		"resistance": 12,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3375",
+		"type": "Wire Wound",
+		"resistance": 820,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3362",
+		"type": "Wire Wound",
+		"resistance": 68,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3282",
+		"type": "Wire Wound",
+		"resistance": 220,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3346",
+		"type": "Wire Wound",
+		"resistance": 3.3,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3244",
+		"type": "Wire Wound",
+		"resistance": 5.6,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3246",
+		"type": "Wire Wound",
+		"resistance": 6.8,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3350",
+		"type": "Wire Wound",
+		"resistance": 6.8,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3310",
+		"type": "Wire Wound",
+		"resistance": 3300,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3254",
+		"type": "Wire Wound",
+		"resistance": 15,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3272",
+		"type": "Wire Wound",
+		"resistance": 82,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3302",
+		"type": "Wire Wound",
+		"resistance": 1500,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3364",
+		"type": "Wire Wound",
+		"resistance": 100,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3372",
+		"type": "Wire Wound",
+		"resistance": 470,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3296",
+		"type": "Wire Wound",
+		"resistance": 820,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3206",
+		"type": "Wire Wound",
+		"resistance": 0.1,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3248",
+		"type": "Wire Wound",
+		"resistance": 8.2,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3347",
+		"type": "Wire Wound",
+		"resistance": 3.9,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3252",
+		"type": "Wire Wound",
+		"resistance": 12,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3294",
+		"type": "Wire Wound",
+		"resistance": 680,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3348",
+		"type": "Wire Wound",
+		"resistance": 4.7,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3369",
+		"type": "Wire Wound",
+		"resistance": 270,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3354",
+		"type": "Wire Wound",
+		"resistance": 15,
+		"wattage": 10,
+		"packsize": 1
+	},{
+		"catcode": "RR3220",
+		"type": "Wire Wound",
+		"resistance": 1,
+		"wattage": 5,
+		"packsize": 1
+	},{
+		"catcode": "RR3240",
+		"type": "Wire Wound",
+		"resistance": 3.9,
+		"wattage": 5,
+		"packsize": 1
+	}
 ]
