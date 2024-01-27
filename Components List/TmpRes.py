@@ -46,6 +46,8 @@ for i in range(0,len(rawdata)):
         else:
             msg = "\n\t},{\n" + msg
         resultingJSON += msg
+
+        print(catcode + "\t" + str(resistance) + "\t" + str(wattage))
     x += 1
 resultingJSON += "]"
 
