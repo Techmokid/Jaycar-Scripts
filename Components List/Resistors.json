@@ -1,381 +1,2047 @@
 [
 	{
-		"catcode": "RR3298",
-		"type": "Wire Wound",
-		"resistance": 1000,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3298",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"1000",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3352",
-		"type": "Wire Wound",
-		"resistance": 10,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3352",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"10",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3340",
-		"type": "Wire Wound",
-		"resistance": 1,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3340",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"1",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3306",
-		"type": "Wire Wound",
-		"resistance": 2200,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3306",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"2200",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3250",
-		"type": "Wire Wound",
-		"resistance": 10,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3250",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"10",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3286",
-		"type": "Wire Wound",
-		"resistance": 330,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3286",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"330",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3274",
-		"type": "Wire Wound",
-		"resistance": 100,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3274",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"100",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3290",
-		"type": "Wire Wound",
-		"resistance": 470,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3290",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"470",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3214",
-		"type": "Wire Wound",
-		"resistance": 0.47,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3214",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"0.47",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3312",
-		"type": "Wire Wound",
-		"resistance": 4700,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3312",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"4700",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3276",
-		"type": "Wire Wound",
-		"resistance": 120,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3276",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"120",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3356",
-		"type": "Wire Wound",
-		"resistance": 22,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3356",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"22",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3242",
-		"type": "Wire Wound",
-		"resistance": 4.7,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3242",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"4.7",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3258",
-		"type": "Wire Wound",
-		"resistance": 22,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3258",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"22",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3357",
-		"type": "Wire Wound",
-		"resistance": 27,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3357",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"27",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3353",
-		"type": "Wire Wound",
-		"resistance": 12,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3353",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"12",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3375",
-		"type": "Wire Wound",
-		"resistance": 820,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3375",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"820",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3362",
-		"type": "Wire Wound",
-		"resistance": 68,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3362",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"68",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3282",
-		"type": "Wire Wound",
-		"resistance": 220,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3282",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"220",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3346",
-		"type": "Wire Wound",
-		"resistance": 3.3,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3346",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"3.3",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3244",
-		"type": "Wire Wound",
-		"resistance": 5.6,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3244",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"5.6",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3246",
-		"type": "Wire Wound",
-		"resistance": 6.8,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3246",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"6.8",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3350",
-		"type": "Wire Wound",
-		"resistance": 6.8,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3350",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"6.8",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3310",
-		"type": "Wire Wound",
-		"resistance": 3300,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3310",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"3300",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3254",
-		"type": "Wire Wound",
-		"resistance": 15,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3254",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"15",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3272",
-		"type": "Wire Wound",
-		"resistance": 82,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3272",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"82",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3302",
-		"type": "Wire Wound",
-		"resistance": 1500,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3302",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"1500",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3364",
-		"type": "Wire Wound",
-		"resistance": 100,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3364",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"100",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3372",
-		"type": "Wire Wound",
-		"resistance": 470,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3372",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"470",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3296",
-		"type": "Wire Wound",
-		"resistance": 820,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3296",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"820",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3206",
-		"type": "Wire Wound",
-		"resistance": 0.1,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3206",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"0.1",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3248",
-		"type": "Wire Wound",
-		"resistance": 8.2,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3248",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"8.2",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3347",
-		"type": "Wire Wound",
-		"resistance": 3.9,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3347",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"3.9",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3252",
-		"type": "Wire Wound",
-		"resistance": 12,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3252",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"12",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3294",
-		"type": "Wire Wound",
-		"resistance": 680,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3294",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"680",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3348",
-		"type": "Wire Wound",
-		"resistance": 4.7,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3348",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"4.7",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3369",
-		"type": "Wire Wound",
-		"resistance": 270,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3369",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"270",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3354",
-		"type": "Wire Wound",
-		"resistance": 15,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3354",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"15",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3220",
-		"type": "Wire Wound",
-		"resistance": 1,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3220",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"1",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3240",
-		"type": "Wire Wound",
-		"resistance": 3.9,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3240",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"3.9",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3344",
-		"type": "Wire Wound",
-		"resistance": 2.2,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3344",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"2.2",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3278",
-		"type": "Wire Wound",
-		"resistance": 150,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3278",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"150",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3268",
-		"type": "Wire Wound",
-		"resistance": 56,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3268",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"56",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3280",
-		"type": "Wire Wound",
-		"resistance": 180,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3280",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"180",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3234",
-		"type": "Wire Wound",
-		"resistance": 2.2,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3234",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"2.2",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3351",
-		"type": "Wire Wound",
-		"resistance": 8.2,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3351",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"8.2",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3270",
-		"type": "Wire Wound",
-		"resistance": 68,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3270",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"68",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3284",
-		"type": "Wire Wound",
-		"resistance": 270,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3284",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"270",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3360",
-		"type": "Wire Wound",
-		"resistance": 47,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3360",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"47",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3292",
-		"type": "Wire Wound",
-		"resistance": 560,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3292",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"560",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3262",
-		"type": "Wire Wound",
-		"resistance": 33,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3262",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"33",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3208",
-		"type": "Wire Wound",
-		"resistance": 0.22,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3208",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"0.22",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3238",
-		"type": "Wire Wound",
-		"resistance": 3.3,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3238",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"3.3",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3349",
-		"type": "Wire Wound",
-		"resistance": 5.6,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3349",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"5.6",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3266",
-		"type": "Wire Wound",
-		"resistance": 47,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3266",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"47",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3230",
-		"type": "Wire Wound",
-		"resistance": 1.5,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3230",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"1.5",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3256",
-		"type": "Wire Wound",
-		"resistance": 18,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3256",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"18",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3264",
-		"type": "Wire Wound",
-		"resistance": 39,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3264",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"39",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3355",
-		"type": "Wire Wound",
-		"resistance": 18,
-		"wattage": 10,
-		"packsize": 1
+		"Cat code":"RR3355",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"18",
+		"Wattage":"10"
 	},{
-		"catcode": "RR3260",
-		"type": "Wire Wound",
-		"resistance": 27,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3260",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"27",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3236",
-		"type": "Wire Wound",
-		"resistance": 2.7,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3236",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"2.7",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3288",
-		"type": "Wire Wound",
-		"resistance": 390,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3288",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"390",
+		"Wattage":"5"
 	},{
-		"catcode": "RR3232",
-		"type": "Wire Wound",
-		"resistance": 1.8,
-		"wattage": 5,
-		"packsize": 1
+		"Cat code":"RR3232",
+		"Component":"Resistor",
+		"Component type":"Wire Wound",
+		"Pack size":"1",
+		"Resistance":"1.8",
+		"Wattage":"5"
+	},{
+		"Cat code":"RR2552",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"120",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2526",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"10",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2814",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"47000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2762",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"330",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2790",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"4700",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2554",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"150",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2528",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"12",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2798",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"10000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2774",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2550",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"100",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1502",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"1",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2514",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"3.3",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2786",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"3300",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2524",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"8.2",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2782",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"2200",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2546",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"68",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2822",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"100000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2776",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1200",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2772",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"820",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2806",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"22000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2784",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"2700",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2510",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"2.2",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2824",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"120000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1656",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"2.2M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2766",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"470",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2536",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"27",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2810",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"33000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2808",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"27000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1510",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"2.2",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2788",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"3900",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2540",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"39",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2558",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"220",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2820",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"82000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2846",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2832",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"270000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2532",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"18",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2838",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"470000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2760",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"270",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2522",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"6.8",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2502",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2816",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"56000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1672",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"10M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2764",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"390",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2506",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1.5",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2516",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"3.9",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2800",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"12000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2542",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"47",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2830",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"220000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2518",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"4.7",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2778",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1500",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1660",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"3.3M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2504",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1.2",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2544",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"56",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1514",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"3.3",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR1504",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"1.2",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2794",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"6800",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1512",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"2.7",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2802",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"15000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2534",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"22",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2770",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"680",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2840",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"560000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2850",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1.5M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1664",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"4.7M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2848",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1.2M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1500",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"0",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2818",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"68000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1516",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"3.9",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2556",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"180",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2796",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"8200",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2804",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"18000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2538",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"33",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2826",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"150000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2768",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"560",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2792",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"5600",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2870",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"10M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2812",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"39000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2854",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"2.2M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2834",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"330000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1508",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"1.8",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2548",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"82",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1518",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"4.7",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2520",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"5.6",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2868",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"8.2M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2862",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"4.7M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2836",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"390000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2780",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1800",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1654",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"1.8M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2512",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"2.7",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2858",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"3.3M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1520",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"5.6",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR1522",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"6.8",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2842",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"680000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2864",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"5.6M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1524",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"8.2",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2860",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"3.9M",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR2844",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"820000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1650",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"1.2M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2530",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"15",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1658",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"2.7M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2828",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"180000",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1506",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"1.5",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR1662",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"3.9M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR2508",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"2",
+		"Resistance":"1.8",
+		"Wattage":"1"
+	},{
+		"Cat code":"RR1666",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"5.6M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR1670",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"8.2M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR1652",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"1.5M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR1668",
+		"Component":"Resistor",
+		"Component type":"Carbon Film",
+		"Pack size":"8",
+		"Resistance":"6.8M",
+		"Wattage":"0.25"
+	},{
+		"Cat code":"RR0596",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"10000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0572",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"1000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0580",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"2200",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0548",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"100",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0584",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"3300",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0556",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"220",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0579",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"2000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0565",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"510",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0588",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"4700",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0568",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"680",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0574",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"1200",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0555",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"200",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0566",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"560",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0557",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"240",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0589",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"5100",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0612",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"47000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0550",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"120",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0541",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"51",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0592",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"6800",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0564",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"470",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0570",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"820",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0554",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"180",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0636",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"470000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0594",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"8200",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0628",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"220000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0560",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"330",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0604",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"22000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0582",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"2700",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0622",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"120000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0620",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"100000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0545",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"75",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0598",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"12000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0608",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"33000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0660",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"10M",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0551",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"130",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0581",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"2400",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0602",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"18000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0532",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"22",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0585",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"3600",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0576",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"1500",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0543",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"62",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0531",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"20",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0632",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"330000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0587",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"4300",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0524",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"10",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0547",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"91",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0552",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"150",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0644",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"1M",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0613",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"51000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0605",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"24000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0538",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"39",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0603",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"20000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0553",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"160",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0590",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"5600",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0542",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"56",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0618",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"82000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0577",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"1600",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0559",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"300",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0575",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"1300",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0610",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"39000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0614",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"56000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0621",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"110000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0630",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"270000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0631",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"300000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0561",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"360",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0595",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"9100",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0606",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"27000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0600",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"15000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0626",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"180000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0558",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"270",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0540",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"47",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0562",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"390",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0634",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"390000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0544",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"68",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0563",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"430",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0642",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"820000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0578",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"1800",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0526",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"12",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0573",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"1100",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0619",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"91000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0546",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"82",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0599",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"13000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0616",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"68000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0586",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"3900",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0635",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"430000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0529",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"16",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0637",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"510000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0549",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"110",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0527",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"13",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0583",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"3000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0536",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"33",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0607",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"30000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0567",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"620",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0537",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"36",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0624",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"150000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0627",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"200000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0641",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"750000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0528",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"15",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0525",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"11",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0539",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"43",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0597",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"11000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0535",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"30",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0633",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"360000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0593",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"7500",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0534",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"27",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0569",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"750",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0571",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"910",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0591",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"6200",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0530",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"18",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0643",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"910000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0617",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"75000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0533",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"24",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0629",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"240000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0601",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"16000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0609",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"36000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0640",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"680000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0611",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"43000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0625",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"160000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0623",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"130000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0615",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"62000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0638",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"560000",
+		"Wattage":"0.5"
+	},{
+		"Cat code":"RR0639",
+		"Component":"Resistor",
+		"Component type":"Metal Film",
+		"Pack size":"8",
+		"Resistance":"620000",
+		"Wattage":"0.5"
 	}
 ]

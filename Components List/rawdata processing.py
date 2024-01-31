@@ -29,7 +29,7 @@ strippedData = []
 for i in range(0,len(partialstrippedData),2):
     componentType = "         "
     if "resistor" in partialstrippedData[i].lower():
-        componentType = "Resistor "
+        componentType = "Resistor"
     elif "capacitor" in partialstrippedData[i].lower():
         componentType = "Capacitor"
     elif "greencap" in partialstrippedData[i].lower():
@@ -150,38 +150,48 @@ capacitorsData.append(["RL6426","Capacitor","Low Leakage Electrolytic","1","6.8u
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+arr = resistorsData
 msg = "["
-for i in range(0,len(resistorsData)):
+for i in range(0,len(arr)):
     if (i == 0):
         msg += "\n\t{\n\t\t"
-    elif (i != len(resistorsData) - 1):
+    else:
         msg += "\n\t},{\n\t\t"
     endline = "\n\t\t"
-    msg += "Hello world" + endline
-    msg += "Testing1" + endline
-    msg += "Testing2"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component type\":\"" + arr[i][2] + "\"," + endline
+    msg += "\"Pack size\":\"" + arr[i][3] + "\"," + endline
+    msg += "\"Resistance\":\"" + arr[i][4] + "\"," + endline
+    msg += "\"Wattage\":\"" + arr[i][5] + "\""
 msg += "\n\t}\n]"
-print(msg)
+with open("Resistors.json",'w+') as f:
+    f.write(msg)
+
+arr = capacitorsData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component type\":\"" + arr[i][2] + "\"," + endline
+    msg += "\"Pack size\":\"" + arr[i][3] + "\"," + endline
+    msg += "\"Capacitance\":\"" + arr[i][4] + "\"," + endline
+    msg += "\"Voltage\":\"" + arr[i][5] + "\""
+msg += "\n\t}\n]"
+with open("Capacitors.json",'w+') as f:
+    f.write(msg)
+
+
+
+
+
+
+
+

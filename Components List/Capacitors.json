@@ -1,13 +1,2082 @@
 [
-    {
-        "catcode": "RE6070",
-        "type": "Electrolytic",
-        "capcode": 106,
-        "voltage": 25
-    },{
-        "id": "RE6075",
-        "type": "Electrolytic",
-        "value1": 106,
-        "value2": 63
-    }
+	{
+		"Cat code":"RC5360",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"100nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5324",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"100pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5336",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"1nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5364",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"1",
+		"Capacitance":"220nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5380",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"1",
+		"Capacitance":"10nF",
+		"Voltage":"3000"
+	},{
+		"Cat code":"RC5316",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"22pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5312",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"10pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5328",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"220pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5334",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"680pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5322",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"68pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5318",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"33pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5340",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"2.2nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5342",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"3.3nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5326",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"150pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5325",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"120pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5348",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"10nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5329",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"270pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5309",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"5.6pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5330",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"330pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5308",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"4.7pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5315",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"18pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5314",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"15pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5317",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"27pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5332",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"470pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5320",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"47pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5356",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"47nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5344",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"4.7nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5313",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"12pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5347",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"8.2nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5310",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"6.8pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5333",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"560pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5352",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"22nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5354",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"33nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5311",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"8.2pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5346",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"6.8nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5327",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"180pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5300",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"1pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5335",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"820pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5319",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"39pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5305",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"2.7pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5307",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"3.9pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5302",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"1.5pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5306",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"3.3pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5345",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"5.6nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5331",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"390pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5304",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"2.2pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5323",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"82pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5321",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"56pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5301",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"1.2pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5303",
+		"Component":"Capacitor",
+		"Component type":"Ceramic",
+		"Pack size":"2",
+		"Capacitance":"1.8pF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RU6700",
+		"Component":"Capacitor",
+		"Component type":"Super Capacitor",
+		"Pack size":"1",
+		"Capacitance":"47mF",
+		"Voltage":"55"
+	},{
+		"Cat code":"RU6705",
+		"Component":"Capacitor",
+		"Component type":"Super Capacitor",
+		"Pack size":"1",
+		"Capacitance":"1F",
+		"Voltage":"55"
+	},{
+		"Cat code":"RE6702",
+		"Component":"Capacitor",
+		"Component type":"Super Capacitor",
+		"Pack size":"1",
+		"Capacitance":"22F",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6704",
+		"Component":"Capacitor",
+		"Component type":"Super Capacitor",
+		"Pack size":"1",
+		"Capacitance":"55F",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6070",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6075",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6066",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6130",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6316",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"1000uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6110",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6238",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"2200uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6310",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6220",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"1000uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6150",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6180",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6160",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6042",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"2.2uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6334",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RE6304",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"1000uF",
+		"Voltage":"10"
+	},{
+		"Cat code":"RE6244",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"4700uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6079",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6340",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"1000uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RE6194",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"470uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6195",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"470uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6090",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6312",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6245",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"4700uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6210",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"470uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6332",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RE6306",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"2200uF",
+		"Voltage":"10"
+	},{
+		"Cat code":"RE6080",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6032",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6062",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"450"
+	},{
+		"Cat code":"RE6156",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"400"
+	},{
+		"Cat code":"RE6125",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"450"
+	},{
+		"Cat code":"RE6188",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"330uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6020",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"470nF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6045",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"3.3uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6302",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"470uF",
+		"Voltage":"10"
+	},{
+		"Cat code":"RY6825",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6092",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RY6820",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6243",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"4700uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6100",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6044",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"2.2uF",
+		"Voltage":"450"
+	},{
+		"Cat code":"RL6436",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6320",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"4700uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6122",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RY6908",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RE6324",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RU6720",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"10000uF",
+		"Voltage":"40"
+	},{
+		"Cat code":"RE6344",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6230",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"1000uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6140",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RL6422",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"3.3uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6058",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6326",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"470uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6322",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RY6802",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6095",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"33uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RL6420",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"2.2uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RY6906",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"6.8uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RE6240",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"2200uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RL6432",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"33uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6346",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RY6808",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"6.8uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6241",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"2200uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RL6406",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"220nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6328",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"1000uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RU6709",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"5600uF",
+		"Voltage":"40"
+	},{
+		"Cat code":"RY6901",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RE6350",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"470uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6342",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6300",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"10"
+	},{
+		"Cat code":"RE6338",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"470uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RE6314",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"470uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RE6348",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RL6414",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6060",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RY6904",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RL6428",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6158",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RL6412",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"680nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RY6903",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"3.3uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RE6336",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RY6810",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6078",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"450"
+	},{
+		"Cat code":"RU6708",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"4000uF",
+		"Voltage":"75"
+	},{
+		"Cat code":"RE6236",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"1000uF",
+		"Voltage":"63"
+	},{
+		"Cat code":"RE6157",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"10"
+	},{
+		"Cat code":"RL6424",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6330",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"2200uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RY6806",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6190",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"330uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6318",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"2200uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RL6418",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"1.5uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RY6928",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"220uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6902",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"2.2uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6912",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6804",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"2.2uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RU6712",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"10000uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6932",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"300uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6936",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"400uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6818",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"33uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RL6402",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"100nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RE6308",
+		"Component":"Capacitor",
+		"Component type":"Low ESR Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"4700uF",
+		"Voltage":"10"
+	},{
+		"Cat code":"RY6910",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"15uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6924",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"150uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RL6434",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RE6034",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic RB",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"450"
+	},{
+		"Cat code":"RY6918",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"68uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6914",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"33uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RL6410",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"470nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RL6430",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RY6916",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6805",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"3.3uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RY6920",
+		"Component":"Capacitor",
+		"Component type":"Crossover",
+		"Pack size":"1",
+		"Capacitance":"100uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RY6816",
+		"Component":"Capacitor",
+		"Component type":"Bipolar Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RL6408",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"330nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RU6710",
+		"Component":"Capacitor",
+		"Component type":"Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"8000uF",
+		"Voltage":"80"
+	},{
+		"Cat code":"RC5499",
+		"Component":"Capacitor",
+		"Component type":"Monolithic",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5480",
+		"Component":"Capacitor",
+		"Component type":"Monolithic",
+		"Pack size":"1",
+		"Capacitance":"10nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5490",
+		"Component":"Capacitor",
+		"Component type":"Monolithic",
+		"Pack size":"1",
+		"Capacitance":"100nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5496",
+		"Component":"Capacitor",
+		"Component type":"Monolithic",
+		"Pack size":"100",
+		"Capacitance":"0.1uF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5498",
+		"Component":"Capacitor",
+		"Component type":"Monolithic",
+		"Pack size":"1",
+		"Capacitance":"0.47unF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5482",
+		"Component":"Capacitor",
+		"Component type":"Monolithic",
+		"Pack size":"1",
+		"Capacitance":"22nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5494",
+		"Component":"Capacitor",
+		"Component type":"Monolithic",
+		"Pack size":"1",
+		"Capacitance":"220nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RC5486",
+		"Component":"Capacitor",
+		"Component type":"Monolithic",
+		"Pack size":"1",
+		"Capacitance":"47nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RZ6620",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"100nF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6648",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RZ6622",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"220nF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6626",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"470nF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6624",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"330nF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6655",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6627",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RZ6628",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6645",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"6.8uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6632",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"2.2uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6665",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"33uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RZ6650",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"25"
+	},{
+		"Cat code":"RZ6658",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"22uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RZ6630",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"1.5uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6636",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RZ6670",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"47uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RZ6640",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"35"
+	},{
+		"Cat code":"RZ6657",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"15uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RZ6642",
+		"Component":"Capacitor",
+		"Component type":"Tantalum",
+		"Pack size":"1",
+		"Capacitance":"6.8uF",
+		"Voltage":"16"
+	},{
+		"Cat code":"RY6953",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"3.3uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RY6952",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"2.2uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RY6950",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RY6955",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"5.6uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RY6951",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"1.5uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RY6957",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"8.2uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RY6954",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RY6958",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RY6956",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"6.8uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RG5234",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"47nF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RG5238",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"220nF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RG5236",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"100nF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RG5230",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"10nF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RG5232",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"22nF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RG5248",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RG5240",
+		"Component":"Capacitor",
+		"Component type":"Polyprop",
+		"Pack size":"1",
+		"Capacitance":"470nF",
+		"Voltage":"250"
+	},{
+		"Cat code":"RG5210",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"100nF",
+		"Voltage":"630"
+	},{
+		"Cat code":"RG5065",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"10nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5105",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"47nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5085",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"22nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5010",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5202",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"22nF",
+		"Voltage":"630"
+	},{
+		"Cat code":"RG5201",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"10nF",
+		"Voltage":"630"
+	},{
+		"Cat code":"RG5145",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"220nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5222",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"220nF",
+		"Voltage":"630"
+	},{
+		"Cat code":"RG5095",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"33nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5247",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"470nF",
+		"Voltage":"630"
+	},{
+		"Cat code":"RG5205",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"47nF",
+		"Voltage":"630"
+	},{
+		"Cat code":"RG5153",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"330nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5060",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"8.2nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5204",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"47nF",
+		"Voltage":"630"
+	},{
+		"Cat code":"RG5015",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1.5nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5170",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5075",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"15nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5115",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"68nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5125",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"100nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5022",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"2.2nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5090",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"27nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5203",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"33nF",
+		"Voltage":"630"
+	},{
+		"Cat code":"RG5130",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"120nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5070",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"12nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5175",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"2.2uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5140",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"180nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5018",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1.8nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5168",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"680nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5100",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"39nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5055",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"6.8nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5039",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"3.9nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5165",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"470nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5047",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"4.7nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5033",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"3.3nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5172",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1.5uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5169",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"820nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5120",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"82nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5080",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"18nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5012",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1.2nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5027",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"2.7nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5135",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"150nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5181",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"4.7uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5110",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"56nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5166",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"560nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5180",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"3.3uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5050",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"5.6nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5185",
+		"Component":"Capacitor",
+		"Component type":"Greencap",
+		"Pack size":"1",
+		"Capacitance":"10uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RG5150",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"270nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7047",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"4.7nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7125",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"100nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7010",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7145",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"220nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7105",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"47nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7022",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"2.2nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7130",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"120nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7055",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"6.8nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7153",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"330nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7075",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"15nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7065",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"10nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7110",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"56nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7070",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"12nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7140",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"180nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7115",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"68nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7159",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"390nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7015",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1.5nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7166",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"560nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7170",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7172",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1.5uF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7165",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"470nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7120",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"82nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7033",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"3.3nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7027",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"2.7nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7168",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"680nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7085",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"22nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7012",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"1.2nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7095",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"33nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7039",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"3.9nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7135",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"150nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7080",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"18nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7100",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"39nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RM7150",
+		"Component":"Capacitor",
+		"Component type":"MKT Polyester",
+		"Pack size":"1",
+		"Capacitance":"270nF",
+		"Voltage":"100"
+	},{
+		"Cat code":"RL6404",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"150nF",
+		"Voltage":"50"
+	},{
+		"Cat code":"RL6426",
+		"Component":"Capacitor",
+		"Component type":"Low Leakage Electrolytic",
+		"Pack size":"1",
+		"Capacitance":"6.8uF",
+		"Voltage":"35"
+	}
 ]
