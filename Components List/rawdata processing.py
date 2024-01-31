@@ -48,6 +48,8 @@ for i in range(0,len(partialstrippedData),2):
 
 resistorsData = []
 capacitorsData = []
+transistorsData = []
+MOSFETsData = []
 for i in range(0,len(strippedData)):
     if ("Resistor" in strippedData[i][1]):
         tmp = []
@@ -89,10 +91,7 @@ for i in range(0,len(strippedData)):
             tmp[4] = val
         strippedData[i] = tmp
         resistorsData.append(strippedData[i])
-        #print(strippedData[i])
-    if ("Capacitor" in strippedData[i][1]):
-        #print(strippedData[i])
-
+    elif ("Capacitor" in strippedData[i][1]):
         tmp = []
         tmp.append(strippedData[i][0])
         tmp.append(strippedData[i][1])
@@ -139,8 +138,50 @@ for i in range(0,len(strippedData)):
         
         strippedData[i] = tmp
         capacitorsData.append(tmp)
-        #print(str(tmp) + "\t\t\t\t" + str(strippedData[i]))
-        #print()
+    else:
+        if (("RL6404" not in strippedData[i]) and ("RL6426" not in strippedData[i])):
+            print("Unknown component: " + str(strippedData[i]))
 
-print(capacitorsData)
+capacitorsData.append(["RL6404","Capacitor","Low Leakage Electrolytic","1","150nF", "50"])
+capacitorsData.append(["RL6426","Capacitor","Low Leakage Electrolytic","1","6.8uF", "35"])
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+msg = "["
+for i in range(0,len(resistorsData)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    elif (i != len(resistorsData) - 1):
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+    msg += "Hello world" + endline
+    msg += "Testing1" + endline
+    msg += "Testing2"
+msg += "\n\t}\n]"
+print(msg)
