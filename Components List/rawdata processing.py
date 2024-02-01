@@ -41,7 +41,7 @@ for i in range(0,len(partialstrippedData),2):
     elif "transistor" in partialstrippedData[i].lower():
         componentType = "Transistor"
     elif "voltage regulator" in partialstrippedData[i].lower():
-        componentType = "VReg"
+        componentType = "Rectifier"
     elif "regulator" in partialstrippedData[i].lower():
         componentType = "Regulator"
     elif "crystal" in partialstrippedData[i].lower():
@@ -60,14 +60,63 @@ for i in range(0,len(partialstrippedData),2):
         componentType = "Sensor"
     elif "choke" in partialstrippedData[i].lower():
         componentType = "RF Choke"
-        
+    elif ("standoff" in partialstrippedData[i].lower()) and ("ke" in partialstrippedData[i].lower()):
+        componentType = "Diode"
+    elif "74h" in partialstrippedData[i].lower():
+        componentType = "IC"
+    elif "74l" in partialstrippedData[i].lower():
+        componentType = "IC"
+    elif "rectifier" in partialstrippedData[i].lower():
+        componentType = "Rectifier"
+    elif "triac" in partialstrippedData[i].lower():
+        componentType = "Triac"
+    elif "j-fet" in partialstrippedData[i].lower():
+        componentType = "FET"
+    elif "sleeve" in partialstrippedData[i].lower():
+        continue
+    elif "core" in partialstrippedData[i].lower():
+        continue
+    elif "ferrite" in partialstrippedData[i].lower():
+        continue
+    elif "coil" in partialstrippedData[i].lower():
+        continue
+    elif "mount" in partialstrippedData[i].lower():
+        continue
+    elif "silicon" in partialstrippedData[i].lower():
+        continue
+    elif "rubber" in partialstrippedData[i].lower():
+        continue
+    elif ("emi" in partialstrippedData[i].lower()) and ("filter" in partialstrippedData[i].lower()):
+        continue
+    elif "DIP" in partialstrippedData[i]:
+        componentType = "IC"
+    elif "FET" in partialstrippedData[i]:
+        componentType = "FET"
+    elif partialstrippedData[i+1].replace("CAT.NO:","") in ["ZK8879","ZL3974","ZK8874","ZC4069","ZC4538","ZL3482","ZC4543","ZC4056","ZZ8900","ZC4007"]:
+        componentType = "IC"
+    elif partialstrippedData[i+1].replace("CAT.NO:","") in ["ZT2397","ZT2452"]:
+        componentType = "FET"
+    elif partialstrippedData[i+1].replace("CAT.NO:","") in ["ZX7192"]:
+        componentType = "DIAC"
+    elif "STP16NF06" in partialstrippedData[i]:
+        componentType = "MOSFET"
+    elif "MBR20100CT" in partialstrippedData[i]:
+        componentType = "Rectifier"
+    elif "ZV1624" in partialstrippedData[i+1].replace("CAT.NO:",""):
+        componentType = "Rectifier"
+    
     if "smd" in partialstrippedData[i].lower():
         continue
     #if componentType.replace(" ","").replace("\n","").replace("\t","") == "":
     #    continue
     
-    if (partialstrippedData[i+1].replace("CAT.NO:","") in ["RE6250","RC5399","RR1697","RR1680","RR2000","RR0680","XB9008","XB9008","RM7190","RG5199"]):
+    if (partialstrippedData[i+1].replace("CAT.NO:","") in ["ZZ8806","RE6250","RC5399","RR1697","RR1680","RR2000",
+                                                           "RR0680","XB9008","XB9008","RM7190","RG5199","ZL3000",
+                                                           "ZL3003","ZM9904","ZD1900"]):
         continue
+    if (componentType == "         "):
+        if (partialstrippedData[i+1].replace("CAT.NO:","")[0] != "Z"):
+            continue
     
     strippedData.append([partialstrippedData[i+1].replace("CAT.NO:",""),componentType,partialstrippedData[i]])
 
@@ -163,6 +212,34 @@ for i in range(0,len(strippedData)):
         
         strippedData[i] = tmp
         capacitorsData.append(tmp)
+    elif "MOSFET" in strippedData[i][1]:
+        continue
+    elif "FET" in strippedData[i][1]:
+        continue
+    elif "IC" in strippedData[i][1]:
+        continue
+    elif "Regulator" in strippedData[i][1]:
+        continue
+    elif "Transistor" in strippedData[i][1]:
+        continue
+    elif "Diode" in strippedData[i][1]:
+        continue
+    elif "Crystal" in strippedData[i][1]:
+        continue
+    elif "SCR" in strippedData[i][1]:
+        continue
+    elif "Sensor" in strippedData[i][1]:
+        continue
+    elif "Socket" in strippedData[i][1]:
+        continue
+    elif "Rectifier" in strippedData[i][1]:
+        continue
+    elif "RF Choke" in strippedData[i][1]:
+        continue
+    elif "Triac" in strippedData[i][1]:
+        continue
+    elif "DIAC" in strippedData[i][1]:
+        continue
     else:
         if (("RL6404" not in strippedData[i]) and ("RL6426" not in strippedData[i])):
             print("Unknown component: " + str(strippedData[i]))
