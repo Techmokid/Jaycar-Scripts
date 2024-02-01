@@ -36,11 +36,36 @@ for i in range(0,len(partialstrippedData),2):
         componentType = "Capacitor"
     elif "electrolytic" in partialstrippedData[i].lower():
         componentType = "Capacitor"
-
+    elif "mosfet" in partialstrippedData[i].lower():
+        componentType = "MOSFET"
+    elif "transistor" in partialstrippedData[i].lower():
+        componentType = "Transistor"
+    elif "voltage regulator" in partialstrippedData[i].lower():
+        componentType = "VReg"
+    elif "regulator" in partialstrippedData[i].lower():
+        componentType = "Regulator"
+    elif "crystal" in partialstrippedData[i].lower():
+        componentType = "Crystal"
+    elif "IC" in partialstrippedData[i]:
+        componentType = "IC"
+    elif "diode" in partialstrippedData[i].lower():
+        componentType = "Diode"
+    elif "SCR" in partialstrippedData[i]:
+        componentType = "SCR"
+    elif "socket" in partialstrippedData[i].lower():
+        componentType = "Socket"
+    elif "microcontroller" in partialstrippedData[i].lower():
+        componentType = "IC"
+    elif "sensor" in partialstrippedData[i].lower():
+        componentType = "Sensor"
+    elif "choke" in partialstrippedData[i].lower():
+        componentType = "RF Choke"
+        
     if "smd" in partialstrippedData[i].lower():
         continue
     #if componentType.replace(" ","").replace("\n","").replace("\t","") == "":
     #    continue
+    
     if (partialstrippedData[i+1].replace("CAT.NO:","") in ["RE6250","RC5399","RR1697","RR1680","RR2000","RR0680","XB9008","XB9008","RM7190","RG5199"]):
         continue
     
