@@ -1,0 +1,241 @@
+[
+	{
+		"Cat code":"ZV1505",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"5",
+		"Amps":"1",
+		"Desc":"7805 +5V 1A Voltage Regulator TO-220 case"
+	},{
+		"Cat code":"ZV1615",
+		"Component":"Regulator",
+		"Component type":"Adjustable Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"LM317T +1.2 - 37V 1.5A Adjustable Voltage Regulator"
+	},{
+		"Cat code":"ZV1509",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"9",
+		"Amps":"1",
+		"Desc":"7809 +9V 1A Voltage Regulator"
+	},{
+		"Cat code":"ZV1515",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"15",
+		"Amps":"1",
+		"Desc":"7815 +15V 1A Voltage Regulator"
+	},{
+		"Cat code":"ZV1508",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"8",
+		"Amps":"1",
+		"Desc":"7808 +8V 1A Voltage Regulator"
+	},{
+		"Cat code":"ZV1532",
+		"Component":"Regulator",
+		"Component type":"79xx VReg",
+		"Volts":"-12",
+		"Amps":"1",
+		"Desc":"7912 -12V 1A Voltage Regulator TO-220"
+	},{
+		"Cat code":"ZV1539",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"5",
+		"Amps":"0.1",
+		"Desc":"78L05 +5V 100mA Voltage Regulator"
+	},{
+		"Cat code":"ZV1512",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"12",
+		"Amps":"1",
+		"Desc":"7812 +12V 1A Voltage Regulator TO-220"
+	},{
+		"Cat code":"ZV1535",
+		"Component":"Regulator",
+		"Component type":"79xx VReg",
+		"Volts":"-15",
+		"Amps":"1",
+		"Desc":"7915 -15V 1A Voltage Regulator TO-220"
+	},{
+		"Cat code":"ZV1525",
+		"Component":"Regulator",
+		"Component type":"79xx VReg",
+		"Volts":"-5",
+		"Amps":"1",
+		"Desc":"7905 -5 Volt 1A Voltage Regulator"
+	},{
+		"Cat code":"ZV1560",
+		"Component":"Regulator",
+		"Component type":"Low Voltage Dropout",
+		"Volts":"5",
+		"Amps":"1",
+		"Desc":"LM2940CT-5 5V 1A Low Voltage Dropout Regulator"
+	},{
+		"Cat code":"ZV1620",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"LM337T -1.2-37V 1.5A Voltage Regulator"
+	},{
+		"Cat code":"ZV1506",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"6",
+		"Amps":"1",
+		"Desc":"7806 +6V 1A Voltage Regulator"
+	},{
+		"Cat code":"ZV1530",
+		"Component":"Regulator",
+		"Component type":"79xx VReg",
+		"Volts":"-9",
+		"Amps":"1",
+		"Desc":"7909 -9V 1A Voltage Regulator TO-220"
+	},{
+		"Cat code":"ZV1656",
+		"Component":"Regulator",
+		"Component type":"Boost Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"LM2577 Boost Regulator IC"
+	},{
+		"Cat code":"ZV1634",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"MC78T12 12V 3A Voltage Regulator"
+	},{
+		"Cat code":"ZV1650",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"Voltage Regulator LM2936-3.3"
+	},{
+		"Cat code":"ZV1640",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"LM2576 1-37V Stepdown Voltage Regulator"
+	},{
+		"Cat code":"ZV1646",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"Voltage Regulator LP2951ACN"
+	},{
+		"Cat code":"ZV1635",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"LM350K +1.2-33V 3A Voltage Regulator"
+	},{
+		"Cat code":"ZV1636",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"Voltage Regulator LM2678T-5 +5V step-down 5A TO-220-7"
+	},{
+		"Cat code":"ZV1642",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"LM2577 +12V Voltage Regulator (Step Up)"
+	},{
+		"Cat code":"ZV1562",
+		"Component":"Regulator",
+		"Component type":"Low Voltage Dropout",
+		"Volts":"12",
+		"Amps":"1",
+		"Desc":"LM2940CT-12 12V 1A Low Voltage Dropout Regulator"
+	},{
+		"Cat code":"ZV1565",
+		"Component":"Regulator",
+		"Component type":"Low Voltage Dropout",
+		"Volts":"3.3",
+		"Amps":"1",
+		"Desc":"LM3940 Low Dropout Regulator"
+	},{
+		"Cat code":"ZV1524",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"24",
+		"Amps":"1",
+		"Desc":"7824 +24V 1A Voltage Regulator"
+	},{
+		"Cat code":"ZV1542",
+		"Component":"Regulator",
+		"Component type":"78xx VReg",
+		"Volts":"12",
+		"Amps":"0.1",
+		"Desc":"78L12 +12V 100mA Voltage Regulator TO-92"
+	},{
+		"Cat code":"ZV1645",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"Voltage Regulator LP2950ACZ-5.0"
+	},{
+		"Cat code":"ZV1564",
+		"Component":"Regulator",
+		"Component type":"Low Voltage Dropout",
+		"Volts":"12",
+		"Amps":"3",
+		"Desc":"LM1085IT-12 12V 3A Low Voltage Dropout Regulator"
+	},{
+		"Cat code":"ZV1610",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"LM317K +1.2-37V 1.5A Voltage Regulator"
+	},{
+		"Cat code":"ZV1676",
+		"Component":"Regulator",
+		"Component type":"Adjustable Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"LM723CN 2-37V 150mA Adjustable Voltage Regulator DIL"
+	},{
+		"Cat code":"ZV1637",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"Voltage Regulator LM2678T-12"
+	},{
+		"Cat code":"ZV1652",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"Voltage Regulator LM2936-5"
+	},{
+		"Cat code":"ZV1638",
+		"Component":"Regulator",
+		"Component type":"Adjustable Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"Voltage Regulator LKM2678T-ADJ +1.2-37V step-down 5A TO-220-7"
+	},{
+		"Cat code":"ZV1654",
+		"Component":"Regulator",
+		"Component type":"Voltage Regulator",
+		"Volts":"",
+		"Amps":"",
+		"Desc":"Voltage Regulator REG103-A"
+	}
+]

@@ -40,20 +40,18 @@ for i in range(0,len(partialstrippedData),2):
         componentType = "MOSFET"
     elif "transistor" in partialstrippedData[i].lower():
         componentType = "Transistor"
-    elif "voltage regulator" in partialstrippedData[i].lower():
-        componentType = "Rectifier"
     elif "regulator" in partialstrippedData[i].lower():
         componentType = "Regulator"
     elif "crystal" in partialstrippedData[i].lower():
         componentType = "Crystal"
+    elif "socket" in partialstrippedData[i].lower():
+        continue
     elif "IC" in partialstrippedData[i]:
         componentType = "IC"
     elif "diode" in partialstrippedData[i].lower():
         componentType = "Diode"
     elif "SCR" in partialstrippedData[i]:
         componentType = "SCR"
-    elif "socket" in partialstrippedData[i].lower():
-        componentType = "Socket"
     elif "microcontroller" in partialstrippedData[i].lower():
         componentType = "IC"
     elif "sensor" in partialstrippedData[i].lower():
@@ -123,7 +121,9 @@ for i in range(0,len(partialstrippedData),2):
 resistorsData = []
 capacitorsData = []
 transistorsData = []
-MOSFETsData = []
+FETsData = []
+ICsData = []
+regulatorsData = []
 for i in range(0,len(strippedData)):
     if ("Resistor" in strippedData[i][1]):
         tmp = []
@@ -213,15 +213,188 @@ for i in range(0,len(strippedData)):
         strippedData[i] = tmp
         capacitorsData.append(tmp)
     elif "MOSFET" in strippedData[i][1]:
-        continue
+        if strippedData[i][0] == "ZK8821":
+            continue
+        
+        tmp = [strippedData[i][0],strippedData[i][1]]
+        componentType = ""
+        if "n-ch" in strippedData[i][2].lower():
+            componentType = "N-Channel"
+        elif "p-ch" in strippedData[i][2].lower():
+            componentType = "P-Channel"
+        elif strippedData[i][0] in ["ZT2466","ZT2277"]:
+            componentType = "N-Channel"
+        tmp.append(componentType)
+
+        if strippedData[i][0] == "ZT2467":
+            tmp.append(100) #Volts
+            tmp.append(23)  #Amps
+            tmp.append(140)  #Watts
+        elif strippedData[i][0] == "ZT2450":
+            tmp.append(60)
+            tmp.append(60)
+            tmp.append(110)
+        elif strippedData[i][0] == "ZT2277":
+            tmp.append(60)
+            tmp.append(16)
+            tmp.append(45)
+        elif strippedData[i][0] == "ZT2466":
+            tmp.append(100)
+            tmp.append(33)
+            tmp.append(130)
+        elif strippedData[i][0] == "ZT2468":
+            tmp.append(55)
+            tmp.append(169)
+            tmp.append(330)
+        elif strippedData[i][0] == "ZT2464":
+            tmp.append(60)
+            tmp.append(53)
+            tmp.append(104)
+        elif strippedData[i][0] == "ZT2460":
+            tmp.append(160)
+            tmp.append(7)
+            tmp.append(100)
+        strippedData[i] = tmp
+        FETsData.append(tmp)
     elif "FET" in strippedData[i][1]:
-        continue
+        if strippedData[i][0] == "ZT2397":
+            continue
+        
+        tmp = [strippedData[i][0],"FET","N-Channel"]
+        if "J-FET" in strippedData[i][2]:
+            tmp[1] = "JFET"
+        
+        if strippedData[i][0] == "ZT2400":
+            tmp.append(60) #Volts
+            tmp.append(0.2)  #Amps
+            tmp.append(0.4)  #Watts
+        elif strippedData[i][0] == "ZT2262":
+            tmp.append(25) #Volts
+            tmp.append(0.01)  #Amps
+            tmp.append(0.35)  #Watts
+        elif strippedData[i][0] == "ZT2225":
+            tmp.append(50) #Volts
+            tmp.append(14)  #Amps
+            tmp.append(40)  #Watts
+        elif strippedData[i][0] == "ZT2266":
+            tmp.append(25) #Volts
+            tmp.append(0.01)  #Amps
+            tmp.append(0.31)  #Watts
+        elif strippedData[i][0] == "ZT2375":
+            tmp.append(25) #Volts
+            tmp.append(0.01)  #Amps
+            tmp.append(0.31)  #Watts
+        elif strippedData[i][0] == "ZT2452":
+            tmp.append(60) #Volts
+            tmp.append(1)  #Amps
+            tmp.append(0.9)  #Watts
+        strippedData[i] = tmp
+        FETsData.append(tmp)
     elif "IC" in strippedData[i][1]:
-        continue
+        tmp = [strippedData[i][0],strippedData[i][1]]
+        if "microcontroller" in strippedData[i][2].lower():
+            tmp.append("Microcontroller")
+        elif "atmega" in strippedData[i][2].lower():
+            tmp.append("Microcontroller")
+        elif "attiny" in strippedData[i][2].lower():
+            tmp.append("Microcontroller")
+        elif "74l" == strippedData[i][2][:3].lower():
+            tmp.append("Logic IC")
+        elif "74h" == strippedData[i][2][:3].lower():
+            tmp.append("Logic IC")
+        elif (strippedData[i][1] == "IC") and ("gate" in strippedData[i][2].lower()):
+            tmp.append("Logic IC")
+        elif (strippedData[i][0] == "ZC4025"):
+            tmp.append("Logic IC")
+            strippedData[i][2] = strippedData[i][2].replace("Gare","Gate")
+        elif "eprom" in strippedData[i][2].lower():
+            tmp.append("Memory IC")
+        elif "memory" in strippedData[i][2].lower():
+            tmp.append("Memory IC")
+        elif "opamp" in strippedData[i][2].lower():
+            tmp.append("Amplifier")
+        elif "op-amp" in strippedData[i][2].lower():
+            tmp.append("Amplifier")
+        elif "amplifier" in strippedData[i][2].lower():
+            tmp.append("Amplifier")
+        elif "audio amp" in strippedData[i][2].lower():
+            tmp.append("Amplifier")
+        elif "buffer" in strippedData[i][2].lower():
+            tmp.append("Buffer")
+        elif "multiplexer" in strippedData[i][2].lower():
+            tmp.append("Multiplexer")
+        elif "shift" in strippedData[i][2].lower():
+            tmp.append("Shift Register")
+        else:
+            tmp.append("Other")
+        tmp.append(strippedData[i][2])
+        ICsData.append(tmp)
     elif "Regulator" in strippedData[i][1]:
-        continue
+        tmp = [strippedData[i][0],strippedData[i][1]]
+        if strippedData[i][2][:2] == "78":
+            tmp.append("78xx VReg")
+            if strippedData[i][2][2:3] == "L":
+                #Here we have a 78Lxx series
+                tmp.append(str(int(strippedData[i][2][3:6])))
+                tmp.append("0.1")
+            else:
+                #Here we have a 78xx series
+                tmp.append(str(int(strippedData[i][2][2:5])))
+                tmp.append("1")
+        elif strippedData[i][2][:2] == "79":
+            tmp.append("79xx VReg")
+            if strippedData[i][2][2:3] == "L":
+                #Here we have a 78Lxx series
+                tmp.append("-"+str(int(strippedData[i][2][3:6])))
+                tmp.append("0.1")
+            else:
+                #Here we have a 78xx series
+                tmp.append("-"+str(int(strippedData[i][2][2:5])))
+                tmp.append("1")
+        elif "low" in strippedData[i][2].lower():
+            tmp.append("Low Voltage Dropout")
+            tmp.append("12")
+            tmp.append("1")
+            if (strippedData[i][0] == "ZV1560"):
+                tmp[3] = "5"
+            elif (strippedData[i][0] == "ZV1565"):
+                tmp[3] = "3.3"
+            elif (strippedData[i][0] == "ZV1564"):
+                tmp[4] = "3"
+        elif "adj" in strippedData[i][2].lower():
+            tmp.append("Adjustable Voltage Regulator")
+            tmp.append("")
+            tmp.append("")
+        elif "voltage regulator" in strippedData[i][2].lower():
+            tmp.append("Voltage Regulator")
+            tmp.append("")
+            tmp.append("")
+        elif "boost regulator" in strippedData[i][2].lower():
+            tmp.append("Boost Regulator")
+            tmp.append("")
+            tmp.append("")
+        else:
+            print("UNKNOWN  VREG: " + strippedData[i][2])
+            continue
+        tmp.append(strippedData[i][2])
+        regulatorsData.append(tmp)
     elif "Transistor" in strippedData[i][1]:
-        continue
+        tmp = [strippedData[i][0],strippedData[i][1]]
+        if "pack" in strippedData[i][2].lower():
+            continue
+        elif "NPN" in strippedData[i][2]:
+            tmp.append("NPN")
+            strippedData[i][2] = strippedData[i][2].replace("NPN","").replace("Transistor","")
+        elif "PNP" in strippedData[i][2]:
+            tmp.append("PNP")
+            strippedData[i][2] = strippedData[i][2].replace("PNP","").replace("Transistor","")
+        else:
+            continue
+        if (strippedData[i][2][0] == " "):
+            strippedData[i][2] = strippedData[i][2][1:]
+        strippedData[i][2] = strippedData[i][2].replace("\t"," ").split(" ")[0]
+        tmp.append(strippedData[i][2])
+        transistorsData.append(tmp)
     elif "Diode" in strippedData[i][1]:
         continue
     elif "Crystal" in strippedData[i][1]:
@@ -290,6 +463,77 @@ msg += "\n\t}\n]"
 with open("Capacitors.json",'w+') as f:
     f.write(msg)
 
+arr = transistorsData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component type\":\"" + arr[i][2] + "\"," + endline
+    msg += "\"Transistor identifier\":\"" + arr[i][3] + "\""
+msg += "\n\t}\n]"
+with open("Transistors.json",'w+') as f:
+    f.write(msg)
+
+arr = FETsData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component type\":\"" + arr[i][2] + "\"," + endline
+    msg += "\"Volts\":\"" + str(arr[i][3]) + "\"," + endline
+    msg += "\"Amps\":\"" + str(arr[i][4]) + "\"," + endline
+    msg += "\"Watts\":\"" + str(arr[i][5]) + "\""
+msg += "\n\t}\n]"
+with open("FETs.json",'w+') as f:
+    f.write(msg)
+
+arr = ICsData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component type\":\"" + arr[i][2] + "\"," + endline
+    msg += "\"Description\":\"" + str(arr[i][3]) + "\""
+msg += "\n\t}\n]"
+with open("ICs.json",'w+') as f:
+    f.write(msg)
+
+arr = regulatorsData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component type\":\"" + arr[i][2] + "\"," + endline
+    msg += "\"Volts\":\"" + str(arr[i][3]) + "\"," + endline
+    msg += "\"Amps\":\"" + str(arr[i][4]) + "\"," + endline
+    msg += "\"Description\":\"" + str(arr[i][5]) + "\""
+msg += "\n\t}\n]"
+with open("Regulators.json",'w+') as f:
+    f.write(msg)
 
 
 

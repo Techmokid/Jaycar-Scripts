@@ -1,0 +1,94 @@
+[
+	{
+		"Cat code":"ZT2467",
+		"Component":"MOSFET",
+		"Component type":"P-Channel",
+		"Volts":"100",
+		"Amps":"23",
+		"Watts":"140"
+	},{
+		"Cat code":"ZT2450",
+		"Component":"MOSFET",
+		"Component type":"N-Channel",
+		"Volts":"60",
+		"Amps":"60",
+		"Watts":"110"
+	},{
+		"Cat code":"ZT2277",
+		"Component":"MOSFET",
+		"Component type":"N-Channel",
+		"Volts":"60",
+		"Amps":"16",
+		"Watts":"45"
+	},{
+		"Cat code":"ZT2466",
+		"Component":"MOSFET",
+		"Component type":"N-Channel",
+		"Volts":"100",
+		"Amps":"33",
+		"Watts":"130"
+	},{
+		"Cat code":"ZT2400",
+		"Component":"FET",
+		"Component type":"N-Channel",
+		"Volts":"60",
+		"Amps":"0.2",
+		"Watts":"0.4"
+	},{
+		"Cat code":"ZT2468",
+		"Component":"MOSFET",
+		"Component type":"N-Channel",
+		"Volts":"55",
+		"Amps":"169",
+		"Watts":"330"
+	},{
+		"Cat code":"ZT2262",
+		"Component":"JFET",
+		"Component type":"N-Channel",
+		"Volts":"25",
+		"Amps":"0.01",
+		"Watts":"0.35"
+	},{
+		"Cat code":"ZT2225",
+		"Component":"FET",
+		"Component type":"N-Channel",
+		"Volts":"50",
+		"Amps":"14",
+		"Watts":"40"
+	},{
+		"Cat code":"ZT2464",
+		"Component":"MOSFET",
+		"Component type":"P-Channel",
+		"Volts":"60",
+		"Amps":"53",
+		"Watts":"104"
+	},{
+		"Cat code":"ZT2266",
+		"Component":"JFET",
+		"Component type":"N-Channel",
+		"Volts":"25",
+		"Amps":"0.01",
+		"Watts":"0.31"
+	},{
+		"Cat code":"ZT2460",
+		"Component":"MOSFET",
+		"Component type":"N-Channel",
+		"Volts":"160",
+		"Amps":"7",
+		"Watts":"100"
+	},{
+		"Cat code":"ZT2375",
+		"Component":"JFET",
+		"Component type":"N-Channel",
+		"Volts":"25",
+		"Amps":"0.01",
+		"Watts":"0.31"
+	},{
+		"Cat code":"ZT2452",
+		"Component":"FET",
+		"Component type":"N-Channel",
+		"Volts":"60",
+		"Amps":"1",
+		"Watts":"0.9"
+	}
+]

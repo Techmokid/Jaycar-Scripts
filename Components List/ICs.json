@@ -1,0 +1,1263 @@
+[
+	{
+		"Cat code":"ZL3324",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM324 Quad Low Power Op-Amp Linear IC"
+	},{
+		"Cat code":"ZL3741",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM741 General Purpose Op-Amp Linear IC"
+	},{
+		"Cat code":"ZK8880",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"L293D Dual Full Bridge Motor Driver IC"
+	},{
+		"Cat code":"ZL3556",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"NE556 Dual 555 Timer Linear IC"
+	},{
+		"Cat code":"ZL3386",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM386N-1 Low Voltage 1W Amplifier Linear IC"
+	},{
+		"Cat code":"ZL3336",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM335Z Temperature Sensor Linear IC"
+	},{
+		"Cat code":"ZL3555",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"NE 555 Timer - Linear IC"
+	},{
+		"Cat code":"ZS5002",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS02 Quad 2-Input NOR Gate Low power Schottky IC"
+	},{
+		"Cat code":"ZC4821",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC14 Hex Schmitt trigger Inverter CMOS IC"
+	},{
+		"Cat code":"ZC4017",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4017 Decade Counter/Divider CMOS IC"
+	},{
+		"Cat code":"ZL3455",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM7555 CMOS Timer IC"
+	},{
+		"Cat code":"ZS5074",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS74 Dual D Flip Flop IC"
+	},{
+		"Cat code":"ZL3311",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM311 Voltage Comparator Linear IC"
+	},{
+		"Cat code":"ZS5008",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS08 Quad 2-Input AND Gate IC low power Schottky"
+	},{
+		"Cat code":"ZL3339",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM339 Quad Low Power Comparator Linear IC"
+	},{
+		"Cat code":"ZC4895",
+		"Component":"IC",
+		"Component type":"Shift Register",
+		"Description":"8-bit Tri-state ser-in/ser+ par-out shift reg IC"
+	},{
+		"Cat code":"ZL3393",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM393 Low Power Dual Comparator Linear IC"
+	},{
+		"Cat code":"ZC4804",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC04 Hex Inverter IC"
+	},{
+		"Cat code":"ZS5000",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS00 Quad 2-Input NAND Gate Schottky IC"
+	},{
+		"Cat code":"ZL3972",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"OPA2134PA Hi Performance Dual Audio Op-Amp - DIP8"
+	},{
+		"Cat code":"ZS5014",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS14 Hex Schmitt Trigger IC"
+	},{
+		"Cat code":"ZC4001",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4001 Quad 2-Input NOR Gate CMOS IC"
+	},{
+		"Cat code":"ZS5175",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS175 Quad D Flip Flop IC with clear"
+	},{
+		"Cat code":"ZC4013",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4013 Dual D Flip Flop CMOS IC"
+	},{
+		"Cat code":"ZC4051",
+		"Component":"IC",
+		"Component type":"Multiplexer",
+		"Description":"4051 Single 8-channel Analogue Multiplexer CMOS IC"
+	},{
+		"Cat code":"ZC4093",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4093 Quad 2-Input NAND Schmitt Trigger CMOS IC"
+	},{
+		"Cat code":"ZC4016",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4016 Quad Bi-Lateral Switch CMOS IC"
+	},{
+		"Cat code":"ZS5004",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS04 Hex Inverter IC low power Schottky"
+	},{
+		"Cat code":"ZC4800",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC00 Quad 2-Input NAND Gate CMOS IC"
+	},{
+		"Cat code":"ZC4060",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4060 14-stage Counter Divider Oscillator CMOS IC"
+	},{
+		"Cat code":"ZK8869",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"MCP23008 8-Bit Expander with Serial Interface DIP18"
+	},{
+		"Cat code":"ZC4864",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC193 Synchronous up/down binary counter IC"
+	},{
+		"Cat code":"ZC4071",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4071 Quad 2-Input OR Gate CMOS IC"
+	},{
+		"Cat code":"ZL3072",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"TL072/LF353 Dual Low Noise JFET Op-Amp Linear IC"
+	},{
+		"Cat code":"ZC4842",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC125 Quad Bus Line Driver IC"
+	},{
+		"Cat code":"ZC4030",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4030 Quad 2-Input EXOR Gate CMOS IC"
+	},{
+		"Cat code":"ZC4511",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4511 BCD to 7-Segment Decoder/Driver CMOS IC"
+	},{
+		"Cat code":"ZL3358",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM358 Low Power Dual Op-Amp Linear IC"
+	},{
+		"Cat code":"ZC4837",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC107 14pin Dual JK flip-flop + clear"
+	},{
+		"Cat code":"ZS5245",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS245 Octal Bus Transceiver Low Power Schottky IC DIP20"
+	},{
+		"Cat code":"ZC4802",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC02 Quad 2 Input NOR gate IC"
+	},{
+		"Cat code":"ZK8879",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"8Bit 257 Step Digital Pot - MCP4151-103E/P"
+	},{
+		"Cat code":"ZS5157",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS157 Quad 2-input Multiplexer IC"
+	},{
+		"Cat code":"ZC4050",
+		"Component":"IC",
+		"Component type":"Buffer",
+		"Description":"4050 Hex Buffer CMOS IC"
+	},{
+		"Cat code":"ZL3348",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM348 Quad 741 Op-Amp Linear IC"
+	},{
+		"Cat code":"ZC4850",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC154 4-16 Line Decoder/DeMux IC"
+	},{
+		"Cat code":"ZC4853",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC157 Qual 2-1 Line Multiplexer IC"
+	},{
+		"Cat code":"ZL3301",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM301 High Performance Op-Amp Linear IC"
+	},{
+		"Cat code":"ZL3974",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"OP07CP Precision Low Offset Op-amp"
+	},{
+		"Cat code":"ZL3753",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM1458 Dual Op-Amp Linear IC"
+	},{
+		"Cat code":"ZC4808",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC08 Quad 2 -Input AND Gate IC"
+	},{
+		"Cat code":"ZC4870",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC245 Octal tri-state transceiver IC"
+	},{
+		"Cat code":"ZK8874",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"L6202 Full Bridge Driver 1.5A 48V"
+	},{
+		"Cat code":"ZZ8800",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"Wafer Card with PIC16F84A + 24LC16B inbuilt."
+	},{
+		"Cat code":"ZK8825",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"MAX7219 LED Matrix Driver IC"
+	},{
+		"Cat code":"ZS5138",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS138 1 of 8 Decoder / Demultiplexer IC"
+	},{
+		"Cat code":"ZS5373",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS273 Octal Dual Flip-Flop"
+	},{
+		"Cat code":"ZL3971",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"NE5534AP/NE5534AN Low Noise Op-Amp Linear IC"
+	},{
+		"Cat code":"ZC4052",
+		"Component":"IC",
+		"Component type":"Multiplexer",
+		"Description":"4052 4-Channel Multiplexer/Demultiplexer CMOS IC"
+	},{
+		"Cat code":"ZK8824",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"MAX232 Dual RS-232 Driver Receiver IC"
+	},{
+		"Cat code":"ZC4835",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC86 Quad 2-Input EXOR Gate IC"
+	},{
+		"Cat code":"ZK8837",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"MC34063 DC to DC Converter IC"
+	},{
+		"Cat code":"ZC4823",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC32 Quad 2 input OR gate CMOS IC"
+	},{
+		"Cat code":"ZS5806",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"7406 TTL Hex Inverter IC with 30 Volt OC ouputs"
+	},{
+		"Cat code":"ZC4069",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4069 Hex Inverter CMOS"
+	},{
+		"Cat code":"ZC4846",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC138 1-of-8 Decoder IC"
+	},{
+		"Cat code":"ZS5093",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS93 4-bit Binary Counter IC"
+	},{
+		"Cat code":"ZL3930",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM2917 Freq. To Voltage Linear IC"
+	},{
+		"Cat code":"ZC4047",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4047 Monostable/Astable Multivibrator CMOS IC"
+	},{
+		"Cat code":"ZC4510",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4510 BCD Up/Down Counter and Preset IC"
+	},{
+		"Cat code":"ZC4857",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC164 8-bit Serial in/out Shift Register IC"
+	},{
+		"Cat code":"ZS5123",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS123 Dual Monostable IC"
+	},{
+		"Cat code":"ZC4075",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4075 Triple 3-Input OR Gate CMOS IC"
+	},{
+		"Cat code":"ZL3567",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM567 Low Power Tone Decoder Linear IC"
+	},{
+		"Cat code":"ZL3071",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"TL071/LF351 Single Low Noise JFET Op-Amp Linear IC"
+	},{
+		"Cat code":"ZL3074",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"TL074/LF347 Quad Low Noise JFET Op-Amp Linear IC"
+	},{
+		"Cat code":"ZC4869",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC244 Octal tri-state buffer (non-inverting) IC"
+	},{
+		"Cat code":"ZL3860",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"CA3130 BiMos Op-Amp Linear IC"
+	},{
+		"Cat code":"ZL3976",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"IC INA126PA Micropower Instrumentation Amplifier"
+	},{
+		"Cat code":"ZZ8530",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC16F88-I/P Enhanced FLASH Microcontroller with nanoWatt Technology"
+	},{
+		"Cat code":"ZC4027",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4027 Dual JK Flip Flop CMOS IC"
+	},{
+		"Cat code":"ZC4538",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4538 BCN Dual Monostable Multivibrator"
+	},{
+		"Cat code":"ZL3915",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM3915 Log LED Bar/dot Driver IC"
+	},{
+		"Cat code":"ZS5221",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS221 Dual Monostable Multivibrator IC"
+	},{
+		"Cat code":"ZZ8721",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"ATTiny85 IC 8 pin DIP8"
+	},{
+		"Cat code":"ZS5027",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS27 Triple 3-Input NOR Gate IC"
+	},{
+		"Cat code":"ZC4844",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC132 Quad 2-Input NAND Gate IC"
+	},{
+		"Cat code":"ZC4880",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC393 Dual 4-bit binary counter IC"
+	},{
+		"Cat code":"ZS5125",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS125 Quad Tri-state Buffer IC"
+	},{
+		"Cat code":"ZS5139",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS139 Dual 1 of 4 Decoder / Demultiplexer IC"
+	},{
+		"Cat code":"ZL3748",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"IC LM748 GENERAL PURPOSE OPAMP"
+	},{
+		"Cat code":"ZC4874",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC373 Ocatl Tri-state Latch IC"
+	},{
+		"Cat code":"ZS5193",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS193 Up/Down Counter IC"
+	},{
+		"Cat code":"PI6530",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"28 pin SOIC/SOP to DIP Breadboard Adaptor"
+	},{
+		"Cat code":"ZC4024",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4024 7-Stage Ripple Carry Counter/Divider CMOS IC"
+	},{
+		"Cat code":"ZC4053",
+		"Component":"IC",
+		"Component type":"Multiplexer",
+		"Description":"4053 Triple 2-Input Analogue Multiplexer CMOS IC"
+	},{
+		"Cat code":"ZC4875",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC374 Ocatl Tristate D Flip Flop IC"
+	},{
+		"Cat code":"ZC4007",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4007 Dual complimentary pair plus inverter"
+	},{
+		"Cat code":"ZS5020",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS20 Dual 4-Input NAND Gate IC"
+	},{
+		"Cat code":"ZS5161",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS161 4-bit Binary Counter IC"
+	},{
+		"Cat code":"ZC4073",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4073 Triple 3-input AND Gate CMOS IC"
+	},{
+		"Cat code":"ZK8884",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LVC245 Channel Bus Transceiver DIP20"
+	},{
+		"Cat code":"ZC4028",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4028 BCD to Decimal Decoder CMOS IC"
+	},{
+		"Cat code":"ZC4070",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4070 Quad 2-input EXOR Gate CMOS IC"
+	},{
+		"Cat code":"ZL3482",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"Dual CMOS Op-amp"
+	},{
+		"Cat code":"ZS5273",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS373 Octal Transparent 3 state Latch low power Schottky IC"
+	},{
+		"Cat code":"ZC4858",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC165 8-bit parallel in/out Shift Register IC"
+	},{
+		"Cat code":"ZC4077",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4077 Quad 2-Input EX NOR Gate CMOS IC"
+	},{
+		"Cat code":"ZC4829",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC73 Dual JK Flip-Flop IC"
+	},{
+		"Cat code":"ZC4865",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC221 Dual monostable multivibrator IC"
+	},{
+		"Cat code":"ZC4012",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4012 Dual 4-Input NAND Gate CMOS IC"
+	},{
+		"Cat code":"ZC4015",
+		"Component":"IC",
+		"Component type":"Shift Register",
+		"Description":"4015 Dual 4 Bit static shift register CMOS IC"
+	},{
+		"Cat code":"ZL3484",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"IC LMC6484AIN Quad CMOS Op-amp DIP14"
+	},{
+		"Cat code":"ZS5010",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS10 Triple 3-Input NAND Gate IC"
+	},{
+		"Cat code":"ZZ8600",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC12C509A-04 PIC Microcontroller IC"
+	},{
+		"Cat code":"ZL3958",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM4558 Dual High Performance Op-AmpLinear IC"
+	},{
+		"Cat code":"ZC4849",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC151 8-input Data Selector / Mux IC"
+	},{
+		"Cat code":"ZC4914",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"74C14 Hex Schmitt Trigger CMOS IC"
+	},{
+		"Cat code":"ZC4046",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4046 Phase Lock Loop CMOS IC"
+	},{
+		"Cat code":"ZC4543",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4543 BCD to 7 Segment Latch"
+	},{
+		"Cat code":"ZC4810",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC10 Triple 3-Input NAND Gate CMOS IC"
+	},{
+		"Cat code":"ZC4892",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC4066 Quad bilateral analog switch IC"
+	},{
+		"Cat code":"ZS5807",
+		"Component":"IC",
+		"Component type":"Buffer",
+		"Description":"7407 TTL Hex Buffer IC with 30 V Open Collector output"
+	},{
+		"Cat code":"ZK8868",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"MCP3008 8 Channel 10 Bit ADC DIP16"
+	},{
+		"Cat code":"ZC4040",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4040 12-stage Binary Counter CMOS IC"
+	},{
+		"Cat code":"ZC4066",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4066 Quad Bi-Lateral Switch CMOS IC"
+	},{
+		"Cat code":"ZC4020",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4020 14-Stage Ripple Carry Counter/Divider CMOS IC"
+	},{
+		"Cat code":"ZK8866",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"DAC0802LCN D to A Converter IC"
+	},{
+		"Cat code":"ZS5005",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS05 Hex Inverter IC Low power Schottky"
+	},{
+		"Cat code":"ZS5153",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS153 Dual 4 input multiplexer IC"
+	},{
+		"Cat code":"ZS5241",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS241 Octal Tri-state Buffer IC"
+	},{
+		"Cat code":"ZS5244",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS244 Octal Tri-state Line Driver/Receiver IC"
+	},{
+		"Cat code":"ZZ8753",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"ATmega8 AVR 8 Bit RISC Microcontroller"
+	},{
+		"Cat code":"ZC4890",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC573 Octal Tri-state ser-in/ ser+par-out shift reg IC"
+	},{
+		"Cat code":"ZS5048",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS48 BCD to 7 segment Decoder IC"
+	},{
+		"Cat code":"ZK8882",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"L9110 Bridge Motor Driver IC DIP 8"
+	},{
+		"Cat code":"ZC4076",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4076 Quad D Flip Flop CMOS IC"
+	},{
+		"Cat code":"ZC4094",
+		"Component":"IC",
+		"Component type":"Shift Register",
+		"Description":"4094 8-bit Tri-state Shift Register Latch CMOS IC"
+	},{
+		"Cat code":"ZC4514",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4514 4-Bit Latched 4 to 16 Line Decoder CMOS IC"
+	},{
+		"Cat code":"ZC4872",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC367 Tri-State Hex Buffer IC"
+	},{
+		"Cat code":"ZC4022",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4022 Divide by 8 Counter/Divider CMOS IC"
+	},{
+		"Cat code":"ZL3319",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM319 High Speed Dual Comparator Linear IC"
+	},{
+		"Cat code":"ZL3600",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"TDA1905 5W Amplifier IC with mute"
+	},{
+		"Cat code":"ZL3900",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM3900 Quad Op-amp Linear IC"
+	},{
+		"Cat code":"ZS5030",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS30 Single 8-in NAND Gate IC"
+	},{
+		"Cat code":"ZS5047",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS47 BCD - 7 segment Decoder IC"
+	},{
+		"Cat code":"ZS5174",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS174 Hex High Speed Flip-Flop"
+	},{
+		"Cat code":"ZS5263",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"IC 74LS283 4 Bit Binary"
+	},{
+		"Cat code":"ZZ8603",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"Flash Based 8-Bit CMOS Microcontroller PIC 12F675"
+	},{
+		"Cat code":"ZZ8605",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"dsPIC33FJ128GP802I/SP* PIC Microcontroller - DIP28"
+	},{
+		"Cat code":"ZC4049",
+		"Component":"IC",
+		"Component type":"Buffer",
+		"Description":"4049 Hex Buffer CMOS IC"
+	},{
+		"Cat code":"ZS5032",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS32 Quad 2-Input OR Gate IC"
+	},{
+		"Cat code":"ZC4520",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4520 Dual Binary Up/Down Counter CMOS IC"
+	},{
+		"Cat code":"ZC4827",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC27 Triple 3-in NOR Gate IC"
+	},{
+		"Cat code":"ZC4840",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC123 One Shot Multivibrator IC"
+	},{
+		"Cat code":"ZL3936",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM4136 Quad High Performance Op-Amp Linear IC"
+	},{
+		"Cat code":"ZS5109",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS109 Dual JK Flip Flop IC"
+	},{
+		"Cat code":"ZZ8148",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"1488 RS-232 Line Driver IC"
+	},{
+		"Cat code":"ZZ8149",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"1489 RS-232 Quad line receiver IC"
+	},{
+		"Cat code":"ZZ8602",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC12C508A-04 PIC Microcontroller"
+	},{
+		"Cat code":"ZZ8710",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"AT90S2313-10-PC AVR Microcontroller"
+	},{
+		"Cat code":"ZZ8765",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"ATMEGA8515-8PC 8-Bit AVR Microcontroller"
+	},{
+		"Cat code":"ZL3755",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM1875 25W Amplifier Linear IC"
+	},{
+		"Cat code":"ZC4029",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4029 Decade Up/Down Counter CMOS IC"
+	},{
+		"Cat code":"ZC4502",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4502 Strobed Hex Tri State Inverter CMOS IC"
+	},{
+		"Cat code":"ZC4867",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC240 Octal tri-state buffer (inverting) IC"
+	},{
+		"Cat code":"ZL3084",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"TL084 Quad JFET Op-Amp Linear IC"
+	},{
+		"Cat code":"ZL3388",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"IC AN7511 1W Balanced transformer audio amp"
+	},{
+		"Cat code":"ZL3752",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM3875T 56W Audio power amplifier IC"
+	},{
+		"Cat code":"ZL3914",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM3914 Linear LED Bar/Dot Driver IC"
+	},{
+		"Cat code":"ZS5042",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS42 1 of 10 Decoder IC"
+	},{
+		"Cat code":"ZS5073",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS73 Dual JK Flip Flop IC"
+	},{
+		"Cat code":"ZS5240",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS240 Octal Tri-state Buffer IC"
+	},{
+		"Cat code":"ZZ8700",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"AT89C2051-24-PC 8-Bit Microcontroller IC"
+	},{
+		"Cat code":"ZK8878",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"IC IR2011PBF Half Bridge Driver 200V 1A"
+	},{
+		"Cat code":"ZZ8202",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"ISD1820 Record and Playback IC (DIP14)"
+	},{
+		"Cat code":"ZC4011",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4011 Quad 2-Input NAND Gate CMOS IC"
+	},{
+		"Cat code":"ZC4830",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC74 Dual D Flip Flop IC"
+	},{
+		"Cat code":"ZK8850",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"UA494/TL494 Switchmode Power Controller IC"
+	},{
+		"Cat code":"ZC4025",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4025 Triple 3-Input NOR Gate CMOS IC"
+	},{
+		"Cat code":"ZC4026",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4026 Decade Counter CMOS IC"
+	},{
+		"Cat code":"ZC4828",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC51 3-Input AND/OR/INVERT Gate IC"
+	},{
+		"Cat code":"ZC4862",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC174 Hex D flip-flop + clear IC"
+	},{
+		"Cat code":"ZL3380",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM380 Audio Power Amplifier Linear IC"
+	},{
+		"Cat code":"ZL3835",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"CA3140 Wideband Op-Amp Linear IC"
+	},{
+		"Cat code":"ZL3970",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"NE5534NP/NE5534N Low Noise High Speed Op-Amp Linear IC"
+	},{
+		"Cat code":"ZS5076",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS76 Dual JK Flip Flop IC"
+	},{
+		"Cat code":"ZS5151",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS151 Single 8-input Multiplexer IC"
+	},{
+		"Cat code":"ZS5155",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS155 Dual 1 fo 4 Decoder/Multiplexer"
+	},{
+		"Cat code":"ZS5804",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"7404 TTL Hex Inverter IC"
+	},{
+		"Cat code":"ZV1644",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"IC - TL499ACP Power Supply Controller - DIP8"
+	},{
+		"Cat code":"ZZ8480",
+		"Component":"IC",
+		"Component type":"Memory IC",
+		"Description":"24LC16 SERIAL EEPROM 8 PIN DIP"
+	},{
+		"Cat code":"ZZ8485",
+		"Component":"IC",
+		"Component type":"Memory IC",
+		"Description":"IC 24LC256* EEPROM - Dip 8"
+	},{
+		"Cat code":"ZZ8500",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC16F84A-20P PIC Microcontroller IC"
+	},{
+		"Cat code":"ZZ8560",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC16C63A-20/SP PIC Microcontroller IC"
+	},{
+		"Cat code":"ZZ8755",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"ATMEGA16-8PC 8-Bit AVR Microcontroller"
+	},{
+		"Cat code":"ZZ8760",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"ATMEGA32-8PC 8-Bit AVR Microcontroller"
+	},{
+		"Cat code":"ZZ8900",
+		"Component":"IC",
+		"Component type":"Memory IC",
+		"Description":"SST 49LF020 LPC Flash Memory"
+	},{
+		"Cat code":"ZL3602",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"TDA 1905 5W Audio Amp IC BARGAIN - Pack 10"
+	},{
+		"Cat code":"ZL3833",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM833N Dual Low Noise Op-Amp Linear IC"
+	},{
+		"Cat code":"ZC4081",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4081 Quad 2-Input AND Gate CMOS IC"
+	},{
+		"Cat code":"ZC4811",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC30 8 NAND Gate CMOS IC"
+	},{
+		"Cat code":"ZC4856",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC161 Synch 4-bit Binary Counter IC"
+	},{
+		"Cat code":"ZC4021",
+		"Component":"IC",
+		"Component type":"Shift Register",
+		"Description":"4021 8-stage Shift Register CMOS IC"
+	},{
+		"Cat code":"ZS5274",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS374 Ocatl Tri D Flip Flop IC"
+	},{
+		"Cat code":"ZZ8471",
+		"Component":"IC",
+		"Component type":"Memory IC",
+		"Description":"27C256 256K Eprom IC"
+	},{
+		"Cat code":"ZS5164",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS164 8-bit Shift Register IC"
+	},{
+		"Cat code":"ZC4023",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"4023 Triple 3-input NAND Gate CMOS IC"
+	},{
+		"Cat code":"ZC4056",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"Integrated Circuit 4056 BCD to 7 Seg Decoder"
+	},{
+		"Cat code":"ZC4518",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4518 Dual BCD Up counter CMOS IC"
+	},{
+		"Cat code":"ZC4832",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC76 Dual Flip-Flop IC"
+	},{
+		"Cat code":"ZC4848",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC139 Dual 1 of 4 Decoder IC"
+	},{
+		"Cat code":"ZC4855",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC160 Synchronous Decimal Up/Down Counter IC"
+	},{
+		"Cat code":"ZK8862",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"ADC0804 Analogue to Digital Converter IC"
+	},{
+		"Cat code":"ZK8870",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"MC145436 DTMF Decoder IC"
+	},{
+		"Cat code":"ZL3308",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM308 Precision Op-amp Linear IC"
+	},{
+		"Cat code":"ZS5001",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS01 Quad 2-in NAND Gate Low power Schottky IC"
+	},{
+		"Cat code":"ZS5075",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS75 4-bit Stable Latch IC"
+	},{
+		"Cat code":"ZZ8520",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC16F628A-20/P PIC Microcontroller"
+	},{
+		"Cat code":"ZZ8540",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC16F877A-I/P 8-Bit Microcontroller"
+	},{
+		"Cat code":"ZZ8570",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC18F4550 Microcontroller with USB Interface"
+	},{
+		"Cat code":"ZZ8770",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"ATMEGA128-16AI Microcontroller IC - TQFP64"
+	},{
+		"Cat code":"ZK8827",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"IC ZN409CE COMMAND CTRL DECODER DIP14"
+	},{
+		"Cat code":"ZC4516",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4516 Pre-set Up/Down Counter CMOS IC"
+	},{
+		"Cat code":"ZC4826",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC42 BCD to decimal decoder CMOS IC"
+	},{
+		"Cat code":"ZC4834",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74HC85 4-Bit Magnitude Comparator"
+	},{
+		"Cat code":"ZC4009",
+		"Component":"IC",
+		"Component type":"Buffer",
+		"Description":"4009 Hex Buffer CMOS IC"
+	},{
+		"Cat code":"ZC4018",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"4018 Presettable Divide by N Counter CMOS IC"
+	},{
+		"Cat code":"ZK8830",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"XR2206 Monolithic Function Generator Chip IC"
+	},{
+		"Cat code":"ZK8831",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"XR2211 Phase Lock Loop IC"
+	},{
+		"Cat code":"ZK8864",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"DAC0800LCN D to A Converter IC"
+	},{
+		"Cat code":"ZL3334",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"LM334Z Adjustable Current Source Linear IC"
+	},{
+		"Cat code":"ZL3405",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"7405 Hex Inverter with OC inputs IC"
+	},{
+		"Cat code":"ZL3747",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM747 Dual Op-amp Linear IC"
+	},{
+		"Cat code":"ZL3756",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"LM3876 56W Amplifier Linear IC"
+	},{
+		"Cat code":"ZL3995",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"BA1404 FM Stereo Transmitter Linear IC"
+	},{
+		"Cat code":"ZS5011",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS11 Triple 3-Input AND Gate IC"
+	},{
+		"Cat code":"ZS5085",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS85 4-bit Magnitude Comparator IC"
+	},{
+		"Cat code":"ZS5086",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS86 Quad 2-in EX-OR Gate IC"
+	},{
+		"Cat code":"ZZ8465",
+		"Component":"IC",
+		"Component type":"Memory IC",
+		"Description":"27C64 8k x 8 EPROM IC"
+	},{
+		"Cat code":"ZZ8550",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC16C711-20P PIC Microcontroller IC"
+	},{
+		"Cat code":"ZZ8575",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"PIC30F2010 Microcontroller"
+	},{
+		"Cat code":"ZZ8742",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"IC ATMEGA8535 AVR Dip40"
+	},{
+		"Cat code":"ZZ8750",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"AT90S1200-12PC 8-Bit AVR Microcontroller"
+	},{
+		"Cat code":"ZZ8772",
+		"Component":"IC",
+		"Component type":"Microcontroller",
+		"Description":"IC ATMEGA162-16PI* MCU PDIP 40"
+	},{
+		"Cat code":"ZZ8810",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"WAFERCARD PIC16F877+24LC64 SLV"
+	},{
+		"Cat code":"ZZ8200",
+		"Component":"IC",
+		"Component type":"Other",
+		"Description":"HK-828 45 Second Voice Recorder IC"
+	},{
+		"Cat code":"ZK8826",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"MAX497E Quad Video Amplifier IC"
+	},{
+		"Cat code":"ZS5090",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS90 Decade Counter IC"
+	},{
+		"Cat code":"ZS5192",
+		"Component":"IC",
+		"Component type":"Logic IC",
+		"Description":"74LS192 Up/Down Decade Counter IC"
+	},{
+		"Cat code":"ZK8872",
+		"Component":"IC",
+		"Component type":"Memory IC",
+		"Description":"IC MC68HC11A1P 8-BIT 512B EEPROM DIP48"
+	},{
+		"Cat code":"ZL3754",
+		"Component":"IC",
+		"Component type":"Amplifier",
+		"Description":"IC TDA1562Q AUDIO AMP DBS17P"
+	}
+]

@@ -1,0 +1,293 @@
+[
+	{
+		"Cat code":"ZT2298",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"P2N2222"
+	},{
+		"Cat code":"ZT2152",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BC547"
+	},{
+		"Cat code":"ZT2156",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BC549"
+	},{
+		"Cat code":"ZT2166",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BC558"
+	},{
+		"Cat code":"ZT2292",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"TIP122"
+	},{
+		"Cat code":"ZT2179",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BC639"
+	},{
+		"Cat code":"ZT2328",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"2N3906"
+	},{
+		"Cat code":"ZT2110",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BC327"
+	},{
+		"Cat code":"ZT2116",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BC338"
+	},{
+		"Cat code":"ZT2326",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"2N3904"
+	},{
+		"Cat code":"ZT2284",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"PN200"
+	},{
+		"Cat code":"ZT2285",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"TIP31"
+	},{
+		"Cat code":"ZT2154",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BC548"
+	},{
+		"Cat code":"ZT2290",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"TIP32"
+	},{
+		"Cat code":"ZT2287",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"MPSA13"
+	},{
+		"Cat code":"ZT2160",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BC550"
+	},{
+		"Cat code":"ZT2180",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BC640"
+	},{
+		"Cat code":"ZT2112",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BC328"
+	},{
+		"Cat code":"ZT2115",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BC337"
+	},{
+		"Cat code":"ZT2162",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BC556"
+	},{
+		"Cat code":"ZT2198",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BD649"
+	},{
+		"Cat code":"ZT2193",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BD681"
+	},{
+		"Cat code":"ZT2293",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"TIP35C"
+	},{
+		"Cat code":"ZT2291",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"TIP41C"
+	},{
+		"Cat code":"ZT2150",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BC546"
+	},{
+		"Cat code":"ZT2189",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BD139"
+	},{
+		"Cat code":"ZT2164",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BC557"
+	},{
+		"Cat code":"ZT2200",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BF469"
+	},{
+		"Cat code":"ZT2188",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BD136"
+	},{
+		"Cat code":"ZT2322",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"2N2907"
+	},{
+		"Cat code":"ZT2168",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BC559"
+	},{
+		"Cat code":"ZT2300",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"2N3055"
+	},{
+		"Cat code":"ZT2228",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"MJL21194"
+	},{
+		"Cat code":"ZT2202",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BF470"
+	},{
+		"Cat code":"ZT2190",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BD140"
+	},{
+		"Cat code":"ZT2289",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"TIP42C"
+	},{
+		"Cat code":"ZT2283",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"PN100"
+	},{
+		"Cat code":"ZT2278",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"TIP3055"
+	},{
+		"Cat code":"ZT2294",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"TIP36C"
+	},{
+		"Cat code":"ZT2260",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"MJE350"
+	},{
+		"Cat code":"ZT2192",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BD682"
+	},{
+		"Cat code":"ZT2235",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"MJ2955"
+	},{
+		"Cat code":"ZT2280",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"MJE3055"
+	},{
+		"Cat code":"ZT2230",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"MJ15003"
+	},{
+		"Cat code":"ZT2222",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"MJ10012"
+	},{
+		"Cat code":"ZT2231",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"MJ15004"
+	},{
+		"Cat code":"ZT2275",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"MJE2955"
+	},{
+		"Cat code":"ZT2187",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"BD135"
+	},{
+		"Cat code":"ZT2299",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"2N3053"
+	},{
+		"Cat code":"ZT2255",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"MJE340"
+	},{
+		"Cat code":"ZT2286",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"MPSA06"
+	},{
+		"Cat code":"ZT2199",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"BD650"
+	},{
+		"Cat code":"ZT2324",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"2N3773"
+	},{
+		"Cat code":"ZT2236",
+		"Component":"Transistor",
+		"Component type":"NPN",
+		"Transistor identifier":"NJL3281D"
+	},{
+		"Cat code":"ZT2320",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"2N3638"
+	},{
+		"Cat code":"ZT2270",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"TIP2955"
+	},{
+		"Cat code":"ZT2237",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"NJL1302D"
+	},{
+		"Cat code":"ZT2227",
+		"Component":"Transistor",
+		"Component type":"PNP",
+		"Transistor identifier":"MJL21193"
+	}
+]
