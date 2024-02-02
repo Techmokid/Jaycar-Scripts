@@ -1,0 +1,504 @@
+[
+	{
+		"Cat code":"ZR1018",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N5408",
+		"Volts":"1000",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1024",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"6A10",
+		"Volts":"1000",
+		"Amps":"6"
+	},{
+		"Cat code":"ZR1020",
+		"Component":"Diode",
+		"Component type":"Schottky",
+		"Diode Identifier":"1N5819",
+		"Volts":"40",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1398",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4728",
+		"Volts":"3.3",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1100",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N914/1N4148",
+		"Volts":"100",
+		"Amps":"0.45"
+	},{
+		"Cat code":"ZR1014",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N5404",
+		"Volts":"400",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1004",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N4004",
+		"Volts":"400",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1410",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4740",
+		"Volts":"10",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1027",
+		"Component":"Diode",
+		"Component type":"Schottky",
+		"Diode Identifier":"1N5711",
+		"Volts":"70",
+		"Amps":"0.015"
+	},{
+		"Cat code":"ZR1029",
+		"Component":"Diode",
+		"Component type":"Schottky",
+		"Diode Identifier":"MBR735",
+		"Volts":"35",
+		"Amps":"7"
+	},{
+		"Cat code":"ZR1038",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"UF4007",
+		"Volts":"1000",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1404",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4734",
+		"Volts":"5.6",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1001",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N4934",
+		"Volts":"100",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1405",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4735",
+		"Volts":"6.2",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1402",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4732",
+		"Volts":"4.7",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1008",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N4007",
+		"Volts":"1000",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1418",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4746",
+		"Volts":"18",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1007",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N4007",
+		"Volts":"1000",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1105",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N914/1N4148",
+		"Volts":"100",
+		"Amps":"0.45"
+	},{
+		"Cat code":"ZR1409",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4739",
+		"Volts":"9.1",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1036",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"UF4004",
+		"Volts":"400",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1407",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4737",
+		"Volts":"7.5",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1413",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4743",
+		"Volts":"13",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1054",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"FR607",
+		"Volts":"1000",
+		"Amps":"6"
+	},{
+		"Cat code":"ZR1412",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4742",
+		"Volts":"12",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1406",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4736",
+		"Volts":"6.8",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1048",
+		"Component":"Diode",
+		"Component type":"Schottky",
+		"Diode Identifier":"1N5822",
+		"Volts":"40",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1400",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4730",
+		"Volts":"3.9",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1408",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4738",
+		"Volts":"8.2",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1050",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"FR302",
+		"Volts":"100",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1052",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"FR307",
+		"Volts":"1000",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1044",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"6A4",
+		"Volts":"400",
+		"Amps":"6"
+	},{
+		"Cat code":"ZR1424",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4749",
+		"Volts":"24",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1416",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4745",
+		"Volts":"16",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1034",
+		"Component":"Diode",
+		"Component type":"Fast",
+		"Diode Identifier":"UF4003",
+		"Volts":"200",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1415",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4744",
+		"Volts":"15",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1440",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N5349B",
+		"Volts":"12",
+		"Amps":"5"
+	},{
+		"Cat code":"ZR1422",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4748",
+		"Volts":"22",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1141",
+		"Component":"Diode",
+		"Component type":"Schottky",
+		"Diode Identifier":"BAT46/BAT48",
+		"Volts":"100",
+		"Amps":"0.15"
+	},{
+		"Cat code":"ZR1433",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4752",
+		"Volts":"33",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1403",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4733",
+		"Volts":"5.1",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1427",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4750",
+		"Volts":"27",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1162",
+		"Component":"Diode",
+		"Component type":"TVS - P4KE",
+		"Volts":"13.6",
+		"Amps":"16",
+		"Watts":"400",
+		"AC/DC":"AC"
+	},{
+		"Cat code":"ZR1090",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"SF37",
+		"Volts":"600",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1480",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N5374",
+		"Volts":"75",
+		"Amps":"5"
+	},{
+		"Cat code":"ZR1439",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4754",
+		"Volts":"39",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1170",
+		"Component":"Diode",
+		"Component type":"TVS - 1.5KE",
+		"Volts":"12.9",
+		"Amps":"16",
+		"Watts":"1500",
+		"AC/DC":"DC"
+	},{
+		"Cat code":"ZR1401",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4731",
+		"Volts":"4.3",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1450",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N5352B",
+		"Volts":"15",
+		"Amps":"5"
+	},{
+		"Cat code":"ZR1041",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"6A1",
+		"Volts":"100",
+		"Amps":"6"
+	},{
+		"Cat code":"ZR1023",
+		"Component":"Diode",
+		"Component type":"Schottky",
+		"Diode Identifier":"1N5822",
+		"Volts":"40",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1420",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4747",
+		"Volts":"20",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1475",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4761",
+		"Volts":"75",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1177",
+		"Component":"Diode",
+		"Component type":"TVS - 1.5KE",
+		"Volts":"30.8",
+		"Amps":"36",
+		"Watts":"1500",
+		"AC/DC":"AC"
+	},{
+		"Cat code":"ZR1436",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4753",
+		"Volts":"36",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1180",
+		"Component":"Diode",
+		"Component type":"TVS - 1.5KE",
+		"Volts":"342",
+		"Amps":"400",
+		"Watts":"1500",
+		"AC/DC":"AC"
+	},{
+		"Cat code":"ZR1017",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N5408",
+		"Volts":"1000",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1015",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N5404",
+		"Volts":"400",
+		"Amps":"3"
+	},{
+		"Cat code":"ZR1152",
+		"Component":"Diode",
+		"Component type":"TVS - P4KE",
+		"Volts":"12.1",
+		"Amps":"15",
+		"Watts":"400",
+		"AC/DC":"DC"
+	},{
+		"Cat code":"ZR1430",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4751",
+		"Volts":"30",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1411",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4741",
+		"Volts":"11",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1028",
+		"Component":"Diode",
+		"Component type":"Fast",
+		"Diode Identifier":"BY229",
+		"Volts":"150",
+		"Amps":"8"
+	},{
+		"Cat code":"ZR1399",
+		"Component":"Diode",
+		"Component type":"Zener",
+		"Diode Identifier":"1N4729",
+		"Volts":"3.6",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1154",
+		"Component":"Diode",
+		"Component type":"TVS - P4KE",
+		"Volts":"12.9",
+		"Amps":"16",
+		"Watts":"400",
+		"AC/DC":"DC"
+	},{
+		"Cat code":"ZR1175",
+		"Component":"Diode",
+		"Component type":"TVS - 1.5KE",
+		"Volts":"13.6",
+		"Amps":"16",
+		"Watts":"1500",
+		"AC/DC":"AC"
+	},{
+		"Cat code":"ZR1160",
+		"Component":"Diode",
+		"Component type":"TVS - P4KE",
+		"Volts":"12.8",
+		"Amps":"15",
+		"Watts":"400",
+		"AC/DC":"AC"
+	},{
+		"Cat code":"ZR1168",
+		"Component":"Diode",
+		"Component type":"TVS - 1.5KE",
+		"Volts":"12.1",
+		"Amps":"15",
+		"Watts":"1500",
+		"AC/DC":"DC"
+	},{
+		"Cat code":"ZR1080",
+		"Component":"Diode",
+		"Component type":"Standard",
+		"Diode Identifier":"1N4948G",
+		"Volts":"1000",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1150",
+		"Component":"Diode",
+		"Component type":"TVS - P4KE",
+		"Volts":"5.5",
+		"Amps":"6.8",
+		"Watts":"400",
+		"AC/DC":"DC"
+	},{
+		"Cat code":"ZR1164",
+		"Component":"Diode",
+		"Component type":"TVS - P4KE",
+		"Volts":"324",
+		"Amps":"400",
+		"Watts":"400",
+		"AC/DC":"AC"
+	}
+]

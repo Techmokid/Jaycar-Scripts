@@ -1,0 +1,99 @@
+[
+	{
+		"Cat code":"LF1546",
+		"Component":"RF Choke",
+		"Impedance":"1000uH"
+	},{
+		"Cat code":"LF1534",
+		"Component":"RF Choke",
+		"Impedance":"100uH"
+	},{
+		"Cat code":"LF1522",
+		"Component":"RF Choke",
+		"Impedance":"10uH"
+	},{
+		"Cat code":"LF1530",
+		"Component":"RF Choke",
+		"Impedance":"47uH"
+	},{
+		"Cat code":"LF1510",
+		"Component":"RF Choke",
+		"Impedance":"1uH"
+	},{
+		"Cat code":"LF1272",
+		"Component":"RF Choke",
+		"Impedance":"100uH"
+	},{
+		"Cat code":"LF1274",
+		"Component":"RF Choke",
+		"Impedance":"47uH"
+	},{
+		"Cat code":"LF1276",
+		"Component":"RF Choke",
+		"Impedance":"220uH"
+	},{
+		"Cat code":"LF1278",
+		"Component":"RF Choke",
+		"Impedance":"470uH"
+	},{
+		"Cat code":"LF1540",
+		"Component":"RF Choke",
+		"Impedance":"330uH"
+	},{
+		"Cat code":"LF1538",
+		"Component":"RF Choke",
+		"Impedance":"220uH"
+	},{
+		"Cat code":"LF1518",
+		"Component":"RF Choke",
+		"Impedance":"4.7uH"
+	},{
+		"Cat code":"LF1544",
+		"Component":"RF Choke",
+		"Impedance":"680uH"
+	},{
+		"Cat code":"LF1516",
+		"Component":"RF Choke",
+		"Impedance":"3.3uH"
+	},{
+		"Cat code":"LF1514",
+		"Component":"RF Choke",
+		"Impedance":"2.2uH"
+	},{
+		"Cat code":"LF1532",
+		"Component":"RF Choke",
+		"Impedance":"68uH"
+	},{
+		"Cat code":"LF1524",
+		"Component":"RF Choke",
+		"Impedance":"15uH"
+	},{
+		"Cat code":"LF1526",
+		"Component":"RF Choke",
+		"Impedance":"22uH"
+	},{
+		"Cat code":"LF1512",
+		"Component":"RF Choke",
+		"Impedance":"1.5uH"
+	},{
+		"Cat code":"LF1520",
+		"Component":"RF Choke",
+		"Impedance":"6.8uH"
+	},{
+		"Cat code":"LF1542",
+		"Component":"RF Choke",
+		"Impedance":"470uH"
+	},{
+		"Cat code":"LF1270",
+		"Component":"RF Choke",
+		"Impedance":"100uH"
+	},{
+		"Cat code":"LF1536",
+		"Component":"RF Choke",
+		"Impedance":"150uH"
+	},{
+		"Cat code":"LF1528",
+		"Component":"RF Choke",
+		"Impedance":"33uH"
+	}
+]

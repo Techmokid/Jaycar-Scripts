@@ -1,0 +1,51 @@
+[
+	{
+		"Cat code":"ZR1304",
+		"Component":"Rectifier",
+		"Component Type":"Bridge",
+		"Volts":"400",
+		"Amps":"1.5"
+	},{
+		"Cat code":"ZR1308",
+		"Component":"Rectifier",
+		"Component Type":"Bridge",
+		"Volts":"400",
+		"Amps":"1"
+	},{
+		"Cat code":"ZR1324",
+		"Component":"Rectifier",
+		"Component Type":"Bridge",
+		"Volts":"400",
+		"Amps":"35"
+	},{
+		"Cat code":"ZR1350",
+		"Component":"Rectifier",
+		"Component Type":"Bridge",
+		"Volts":"600",
+		"Amps":"2"
+	},{
+		"Cat code":"ZR1314",
+		"Component":"Rectifier",
+		"Component Type":"Bridge",
+		"Volts":"400",
+		"Amps":"6"
+	},{
+		"Cat code":"ZR1360",
+		"Component":"Rectifier",
+		"Component Type":"Bridge",
+		"Volts":"400",
+		"Amps":"6"
+	},{
+		"Cat code":"ZR1320",
+		"Component":"Rectifier",
+		"Component Type":"Bridge",
+		"Volts":"600",
+		"Amps":"10"
+	},{
+		"Cat code":"ZR1362",
+		"Component":"Rectifier",
+		"Component Type":"Bridge",
+		"Volts":"800",
+		"Amps":"8"
+	}
+]

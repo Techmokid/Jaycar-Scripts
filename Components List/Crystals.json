@@ -1,0 +1,79 @@
+[
+	{
+		"Cat code":"RQ5297",
+		"Component":"Crystal",
+		"Frequency":"32.768KHz"
+	},{
+		"Cat code":"RQ5299",
+		"Component":"Crystal",
+		"Frequency":"20.0MHz"
+	},{
+		"Cat code":"RQ5284",
+		"Component":"Crystal",
+		"Frequency":"4.433619MHz"
+	},{
+		"Cat code":"RQ5272",
+		"Component":"Crystal",
+		"Frequency":"3.5795MHz"
+	},{
+		"Cat code":"RQ5274",
+		"Component":"Crystal",
+		"Frequency":"4.000MHz"
+	},{
+		"Cat code":"RQ5287",
+		"Component":"Crystal",
+		"Frequency":"8.00MHz"
+	},{
+		"Cat code":"RQ5276",
+		"Component":"Crystal",
+		"Frequency":"27.125MHz"
+	},{
+		"Cat code":"RQ5298",
+		"Component":"Crystal",
+		"Frequency":"38KHz"
+	},{
+		"Cat code":"RQ5296",
+		"Component":"Crystal",
+		"Frequency":"16.0MHz"
+	},{
+		"Cat code":"RQ5293",
+		"Component":"Crystal",
+		"Frequency":"12MHz"
+	},{
+		"Cat code":"RQ5271",
+		"Component":"Crystal",
+		"Frequency":"3.2768MHz"
+	},{
+		"Cat code":"RQ5279",
+		"Component":"Crystal",
+		"Frequency":"27.195MHz"
+	},{
+		"Cat code":"RQ5278",
+		"Component":"Crystal",
+		"Frequency":"27.175MHz"
+	},{
+		"Cat code":"RQ5275",
+		"Component":"Crystal",
+		"Frequency":"27.095MHz"
+	},{
+		"Cat code":"RQ5285",
+		"Component":"Crystal",
+		"Frequency":"6.00MHz"
+	},{
+		"Cat code":"RQ5289",
+		"Component":"Crystal",
+		"Frequency":"10.000MHz"
+	},{
+		"Cat code":"RQ5268",
+		"Component":"Crystal",
+		"Frequency":"2.000MHz"
+	},{
+		"Cat code":"RQ5277",
+		"Component":"Crystal",
+		"Frequency":"27.145MHz"
+	},{
+		"Cat code":"RQ5264",
+		"Component":"Crystal",
+		"Frequency":"1.8432MHZ"
+	}
+]

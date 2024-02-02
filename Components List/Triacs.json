@@ -1,0 +1,27 @@
+[
+	{
+		"Cat code":"ZX7149",
+		"Component":"Triac",
+		"Component Identifier":"BT137F",
+		"Volts":"600",
+		"Amps":"8"
+	},{
+		"Cat code":"ZX7141",
+		"Component":"Triac",
+		"Component Identifier":"SC141D",
+		"Volts":"400",
+		"Amps":"6"
+	},{
+		"Cat code":"ZX7145",
+		"Component":"Triac",
+		"Component Identifier":"SC151D",
+		"Volts":"400",
+		"Amps":"15"
+	},{
+		"Cat code":"ZX7147",
+		"Component":"Triac",
+		"Component Identifier":"TAG225/BTA08",
+		"Volts":"400",
+		"Amps":"8"
+	}
+]

@@ -124,6 +124,11 @@ transistorsData = []
 FETsData = []
 ICsData = []
 regulatorsData = []
+diodesData = []
+crystalsData = []
+rectifiersData = []
+chokesData = []
+triacsData = []
 for i in range(0,len(strippedData)):
     if ("Resistor" in strippedData[i][1]):
         tmp = []
@@ -396,21 +401,132 @@ for i in range(0,len(strippedData)):
         tmp.append(strippedData[i][2])
         transistorsData.append(tmp)
     elif "Diode" in strippedData[i][1]:
-        continue
+        tmp = [strippedData[i][0],strippedData[i][1]]
+
+        if "zener" in strippedData[i][2].lower():
+            tmp.append("Zener")
+            vals = strippedData[i][2].split(" ")
+            tmp.append(vals[1])
+            tmp.append(vals[0].replace("V",""))
+            tmp.append(vals[2])
+        elif "schottky" in strippedData[i][2].lower():
+            tmp.append("Schottky")
+            if strippedData[i][0] == "ZR1141":
+                tmp.append("BAT46/BAT48")
+                tmp.append("100")
+                tmp.append("0.15")
+            else:
+                tmp.append(strippedData[i][2].replace("Diode ","").split(" ")[0])
+
+                voltage = None
+                amps = None
+                for x in strippedData[i][2].split(" "):
+                    if x[-1] == "V":
+                        voltage = x[:-1]
+                    if x[-1] == "A":
+                        amps = x[:-1]
+                if not voltage:
+                    voltage = "70"
+                    amps = "0.015"
+                tmp.append(voltage)
+                tmp.append(amps)
+        elif "fast" in strippedData[i][2].lower():
+            tmp.append("Fast")
+            tmp.append(strippedData[i][2].split(" ")[0])
+            if strippedData[i][0] == "ZR1034":
+                tmp.append("200")
+                tmp.append("1")
+            elif strippedData[i][0] == "ZR1028":
+                tmp.append("150")
+                tmp.append("8")
+        else:
+            tmp.append("Standard")
+            strippedData[i][2] = strippedData[i][2].replace("Diode ","").replace("DIODE ","")
+            if strippedData[i][0] in ["ZR1005","ZD1955"]:
+                continue
+            
+            if strippedData[i][0] in ["ZR1105","ZR1100"]:
+                tmp.append("1N914/1N4148")
+                tmp.append("100")
+                tmp.append("0.45")
+            elif "P4KE" in strippedData[i][2]:
+                tmp[2] = "TVS - P4KE"
+                vals = strippedData[i][2].split(" ")
+                tmp.append(vals[1].replace("V",""))
+                tmp.append(vals[2].replace("A","").replace("C",""))
+                tmp.append("400")
+                tmp.append(vals[5])
+            elif "1.5KE" in strippedData[i][2]:
+                tmp[2] = "TVS - 1.5KE"
+                vals = strippedData[i][2].split(" ")
+                tmp.append(vals[1].replace("V",""))
+                tmp.append(vals[2].replace("A","").replace("C",""))
+                tmp.append("1500")
+                tmp.append(vals[5])
+            else:
+                vals = strippedData[i][2].split(" ")
+                tmp.append(vals[0])
+                voltage = None
+                amps = None
+                for x in vals:
+                    if x[-1] == "V":
+                        voltage = x[:-1]
+                    if x[-1] == "A":
+                        amps = x[:-1]
+                tmp.append(voltage)
+                tmp.append(amps)
+        diodesData.append(tmp)
     elif "Crystal" in strippedData[i][1]:
-        continue
+        tmp = [strippedData[i][0],strippedData[i][1]]
+        if "R/C Crystal TX/RX Pair " in strippedData[i][2]:
+            tmp.append(strippedData[i][2].replace("R/C Crystal TX/RX Pair ",""))
+        else:
+            val = strippedData[i][2].replace("Crystal","").replace("CRYSTAL","").replace("38k","38KHz").replace("kHz","KHz")
+            if val[0] == " ":
+                val = val[1:]
+            if "ATMEGA328P" in val:
+                continue
+            tmp.append(val.split(" ")[0])
+        crystalsData.append(tmp)
     elif "SCR" in strippedData[i][1]:
+        #print(strippedData[i][2])
         continue
     elif "Sensor" in strippedData[i][1]:
+        #print(strippedData[i][2])
         continue
     elif "Socket" in strippedData[i][1]:
         continue
     elif "Rectifier" in strippedData[i][1]:
-        continue
+        tmp = [strippedData[i][0],strippedData[i][1]]
+        if ("Bridge" in strippedData[i][2]) or ("ZR1362" == strippedData[i][0]):
+            tmp.append("Bridge")
+            vals = strippedData[i][2].split(" ")
+            voltage = None
+            amps = None
+            for x in vals:
+                if x[-1] == "V":
+                    voltage = x[:-1]
+                if x[-1] == "A":
+                    amps = x[:-1]
+            tmp.append(voltage)
+            tmp.append(amps)
+        elif "ZV1624" == strippedData[i][0]:
+            continue
+        elif "ZR1039" == strippedData[i][0]:
+            continue
+        rectifiersData.append(tmp)
     elif "RF Choke" in strippedData[i][1]:
-        continue
+        if "Chokes" in strippedData[i][2]:
+            continue
+        strippedData[i][2] = strippedData[i][2].split(" ")[0]
+        chokesData.append(strippedData[i])
     elif "Triac" in strippedData[i][1]:
-        continue
+        tmp = [strippedData[i][0],strippedData[i][1]]
+        vals = strippedData[i][2].split(" ")
+        tmp.append(vals[0])
+        tmp.append(vals[1].replace("V",""))
+        tmp.append(vals[2].replace("A",""))
+        triacsData.append(tmp)
     elif "DIAC" in strippedData[i][1]:
         continue
     else:
@@ -535,9 +651,98 @@ msg += "\n\t}\n]"
 with open("Regulators.json",'w+') as f:
     f.write(msg)
 
+arr = diodesData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
 
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component type\":\"" + arr[i][2] + "\"," + endline
+    if "TVS" in arr[i][2]:
+        msg += "\"Volts\":\"" + str(arr[i][3]) + "\"," + endline
+        msg += "\"Amps\":\"" + str(arr[i][4]) + "\"," + endline
+        msg += "\"Watts\":\"" + str(arr[i][5]) + "\"," + endline
+        msg += "\"AC/DC\":\"" + str(arr[i][6]) + "\""
+    else:
+        msg += "\"Diode Identifier\":\"" + str(arr[i][3]) + "\"," + endline
+        msg += "\"Volts\":\"" + str(arr[i][4]) + "\"," + endline
+        msg += "\"Amps\":\"" + str(arr[i][5]) + "\""
+msg += "\n\t}\n]"
+with open("Diodes.json",'w+') as f:
+    f.write(msg)
 
+arr = crystalsData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
 
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Frequency\":\"" + str(arr[i][2]) + "\""
+msg += "\n\t}\n]"
+with open("Crystals.json",'w+') as f:
+    f.write(msg)
+
+arr = rectifiersData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component Type\":\"" + arr[i][2] + "\"," + endline
+    msg += "\"Volts\":\"" + arr[i][3] + "\"," + endline
+    msg += "\"Amps\":\"" + arr[i][4] + "\""
+msg += "\n\t}\n]"
+with open("Rectifiers.json",'w+') as f:
+    f.write(msg)
+
+arr = chokesData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Impedance\":\"" + str(arr[i][2]) + "\""
+msg += "\n\t}\n]"
+with open("RF Chokes.json",'w+') as f:
+    f.write(msg)
+
+arr = triacsData
+msg = "["
+for i in range(0,len(arr)):
+    if (i == 0):
+        msg += "\n\t{\n\t\t"
+    else:
+        msg += "\n\t},{\n\t\t"
+    endline = "\n\t\t"
+
+    msg += "\"Cat code\":\"" + arr[i][0] + "\"," + endline
+    msg += "\"Component\":\"" + arr[i][1] + "\"," + endline
+    msg += "\"Component Identifier\":\"" + arr[i][2] + "\"," + endline
+    msg += "\"Volts\":\"" + arr[i][3] + "\"," + endline
+    msg += "\"Amps\":\"" + arr[i][4] + "\""
+msg += "\n\t}\n]"
+with open("Triacs.json",'w+') as f:
+    f.write(msg)
 
 
 
