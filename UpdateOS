@@ -4,9 +4,11 @@ sudo apt update
 sudo apt upgrade -y
 sudo apt dist-upgrade -y
 sudo apt-get full-upgrade -y
+sudo apt full-upgrade -y
 
 echo "\n\nUpgrading OS"
 sudo do-release-upgrade -d
+sudo apt full-upgrade -y
 
 echo "\n\nCompleted OS Updates!"
 
@@ -20,9 +22,15 @@ sudo apt-get install -y libglew-dev
 echo "\n\nRemoving Orca TTS"
 sudo apt-get purge orca
 
+#echo "\n\nUpdating Git Repos"
+#cd /home/pi/Documents/GitHub
+#./updateGit.sh
+#cd ~
+
 echo "\n\nCleaning Up..."
 sudo apt autoremove -y
 
 echo "\nRebooting now..."
 
 reboot
+
